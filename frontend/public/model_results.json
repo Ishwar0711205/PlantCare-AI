@@ -1,0 +1,66 @@
+{
+  "CNN": {
+    "display_name": "Custom CNN",
+    "validation_accuracy": 89.32,
+    "training_accuracy": 90.10,
+    "validation_images": 32598,
+    "status": "Available",
+    "input_size": "128x128",
+    "macro_precision": 87.51,
+    "macro_recall": 86.67,
+    "macro_f1": 86.54
+  },
+  "VGG16": {
+    "display_name": "VGG16",
+    "validation_accuracy": 90.15,
+    "training_accuracy": 79.22,
+    "validation_images": 32598,
+    "status": "Available",
+    "input_size": "224x224",
+    "macro_precision": 88.88,
+    "macro_recall": 86.69,
+    "macro_f1": 87.29,
+    "weighted_precision": 90.51,
+    "weighted_recall": 90.15,
+    "weighted_f1": 89.94
+  },
+  "MobileNetV2": {
+    "display_name": "MobileNetV2",
+    "validation_accuracy": 92.47,
+    "training_accuracy": 87.36,
+    "validation_images": 32598,
+    "status": "Available",
+    "input_size": "224x224",
+    "macro_precision": 91.53,
+    "macro_recall": 90.71,
+    "macro_f1": 90.83,
+    "weighted_precision": 92.69,
+    "weighted_recall": 92.47,
+    "weighted_f1": 92.33
+  },
+  "ResNet50": {
+    "display_name": "ResNet50",
+    "validation_accuracy": 94.91,
+    "training_accuracy": 95.54,
+    "validation_images": 32598,
+    "status": "Available",
+    "input_size": "224x224",
+    "macro_precision": 94.09,
+    "macro_recall": 93.93,
+    "macro_f1": 93.81,
+    "weighted_precision": 95.09,
+    "weighted_recall": 94.91,
+    "weighted_f1": 94.87
+  },
+  "EfficientNetB0": {
+    "display_name": "EfficientNetB0",
+    "validation_accuracy": 95.94,
+    "training_accuracy": 91.56,
+    "validation_images": 32598,
+    "status": "Available",
+    "input_size": "224x224",
+    "macro_precision": 95.16,
+    "macro_recall": 94.72,
+    "macro_f1": 94.86
+  }
+}

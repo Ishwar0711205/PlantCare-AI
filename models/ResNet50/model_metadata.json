@@ -1,0 +1,15 @@
+{
+    "model": "ResNet50",
+    "num_classes": 38,
+    "image_size": [
+        224,
+        224
+    ],
+    "batch_size": 32,
+    "epochs_requested": 10,
+    "epochs_completed": 10,
+    "training_accuracy": 95.53783535957336,
+    "validation_accuracy": 94.910728931427,
+    "best_validation_accuracy": 94.910728931427,
+    "training_time_minutes": 127.87977840900422
+}

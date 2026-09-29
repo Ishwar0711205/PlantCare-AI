@@ -1,0 +1,15 @@
+{
+    "model": "MobileNetV2",
+    "num_classes": 38,
+    "image_size": [
+        224,
+        224
+    ],
+    "batch_size": 32,
+    "epochs_requested": 10,
+    "epochs_completed": 10,
+    "training_accuracy": 92.88739562034607,
+    "validation_accuracy": 92.47193336486816,
+    "best_validation_accuracy": 92.47193336486816,
+    "training_time_minutes": 53.13288590908051
+}

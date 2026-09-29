@@ -1,0 +1,1104 @@
+{
+  "Apple___Apple_scab": {
+    "plant": "Apple",
+    "name": {
+      "en": "Apple Scab",
+      "hi": "सेब का स्कैब",
+      "mr": "सफरचंदाचा स्कॅब"
+    },
+    "symptoms": {
+      "en": "Olive-green to dark scabby spots on leaves or fruit; fruit may become cracked or distorted.",
+      "hi": "पत्तियों/फलों पर जैतूनी-हरे से गहरे खुरदरे धब्बे; फल फट या विकृत हो सकते हैं.",
+      "mr": "पानांवर/फळांवर ऑलिव्ह-हिरवे ते गडद खरखरीत डाग; फळे फुटू किंवा विकृत होऊ शकतात."
+    },
+    "what_to_do": {
+      "en": "Remove fallen infected leaves/fruit, improve canopy airflow, and avoid prolonged leaf wetness.",
+      "hi": "गिरे संक्रमित पत्ते/फल हटाएँ, हवा का संचार बढ़ाएँ और पत्तियों को लंबे समय तक गीला न रहने दें.",
+      "mr": "गिरलेली संक्रमित पाने/फळे काढा, झाडात हवा खेळती ठेवा आणि पाने दीर्घकाळ ओली राहू देऊ नका."
+    },
+    "spray": {
+      "en": "Label-registered options may include captan or suitable fungicides for apple scab; confirm the current local label.",
+      "hi": "लेबल-अनुसार कैप्टान या स्कैब के लिए पंजीकृत उपयुक्त फफूंदनाशक विकल्प हो सकते हैं; स्थानीय लेबल जांचें.",
+      "mr": "लेबलनुसार कॅप्टन किंवा स्कॅबसाठी नोंदणीकृत योग्य बुरशीनाशक वापरता येऊ शकते; स्थानिक लेबल तपासा."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Apple___Black_rot": {
+    "plant": "Apple",
+    "name": {
+      "en": "Apple Black Rot",
+      "hi": "सेब का ब्लैक रॉट",
+      "mr": "सफरचंदाचा ब्लॅक रॉट"
+    },
+    "symptoms": {
+      "en": "Purple/brown leaf spots, cankers and dark rotting fruit.",
+      "hi": "पत्तियों पर बैंगनी/भूरे धब्बे, तने पर कैंकर और फल पर काला सड़न.",
+      "mr": "पानांवर जांभळट/तपकिरी डाग, खोडावर कॅंकर आणि फळांवर काळी कुज."
+    },
+    "what_to_do": {
+      "en": "Prune dead/cankered wood and remove mummified fruit; sanitize tools and improve airflow.",
+      "hi": "सूखी/कैंकर वाली टहनियाँ और सूखे सड़े फल हटाएँ; औजार साफ रखें और हवा का संचार बढ़ाएँ.",
+      "mr": "मृत/कॅंकर झालेल्या फांद्या व सुकलेली कुजलेली फळे काढा; साधने निर्जंतुक ठेवा आणि हवा खेळती ठेवा."
+    },
+    "spray": {
+      "en": "Use a fungicide specifically registered for apple black rot/scab in your jurisdiction; copper products may be used only where the label permits.",
+      "hi": "अपने क्षेत्र में सेब ब्लैक रॉट/स्कैब के लिए पंजीकृत फफूंदनाशक ही चुनें; कॉपर उत्पाद तभी जब लेबल अनुमति दे.",
+      "mr": "आपल्या भागात नोंदणीकृत ब्लॅक रॉट/स्कॅबसाठी बुरशीनाशक निवडा; लेबल परवानगी देत असल्यासच कॉपर वापरा."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Apple___Cedar_apple_rust": {
+    "plant": "Apple",
+    "name": {
+      "en": "Cedar Apple Rust",
+      "hi": "सेडर एप्पल रस्ट",
+      "mr": "सिडर-ॲपल रस्ट"
+    },
+    "symptoms": {
+      "en": "Yellow-orange leaf spots; later dark specks and premature leaf drop.",
+      "hi": "पत्तियों पर पीले-नारंगी धब्बे, बाद में काले बिंदु और समय से पहले पत्ते गिरना.",
+      "mr": "पानांवर पिवळे-नारिंगी डाग, नंतर काळे ठिपके व अकाली पाने गळणे."
+    },
+    "what_to_do": {
+      "en": "Remove nearby alternate hosts where practical, remove infected debris, and maintain airflow.",
+      "hi": "जहाँ संभव हो वैकल्पिक मेजबान पौधों को नियंत्रित करें, संक्रमित अवशेष हटाएँ और हवा का संचार रखें.",
+      "mr": "शक्य असल्यास जवळचे पर्यायी यजमान नियंत्रित करा, संक्रमित अवशेष काढा आणि हवा खेळती ठेवा."
+    },
+    "spray": {
+      "en": "Use a rust fungicide registered for apple and timed according to local extension/label guidance.",
+      "hi": "सेब के लिए पंजीकृत रस्ट फफूंदनाशक को स्थानीय लेबल/कृषि सलाह के अनुसार समय पर उपयोग करें.",
+      "mr": "सफरचंदासाठी नोंदणीकृत रस्ट बुरशीनाशक स्थानिक लेबल/कृषी सल्ल्यानुसार वापरा."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Apple___healthy": {
+    "plant": "Apple",
+    "name": {
+      "en": "Healthy Apple",
+      "hi": "स्वस्थ सेब",
+      "mr": "निरोगी सफरचंद"
+    },
+    "symptoms": {
+      "en": "No clear disease pattern detected in the model class.",
+      "hi": "मॉडल वर्ग के अनुसार कोई स्पष्ट रोग पैटर्न नहीं मिला।",
+      "mr": "मॉडेल वर्गानुसार स्पष्ट रोगाचा नमुना आढळला नाही."
+    },
+    "what_to_do": {
+      "en": "Continue normal crop care: balanced nutrition, appropriate irrigation, field sanitation and regular scouting.",
+      "hi": "सामान्य देखभाल जारी रखें: संतुलित पोषण, उचित सिंचाई, खेत की स्वच्छता और नियमित निरीक्षण.",
+      "mr": "नियमित काळजी सुरू ठेवा: संतुलित पोषण, योग्य सिंचन, शेत स्वच्छता आणि नियमित निरीक्षण."
+    },
+    "spray": {
+      "en": "No disease spray is recommended solely because the image is classified as healthy. Spray only when a real pest/disease is confirmed and a registered product is indicated.",
+      "hi": "सिर्फ स्वस्थ वर्ग मिलने पर रोग की दवा न छिड़कें। वास्तविक रोग/कीट की पुष्टि होने और पंजीकृत उत्पाद की जरूरत होने पर ही छिड़काव करें.",
+      "mr": "फक्त निरोगी वर्ग मिळाल्यामुळे रोगनाशक फवारू नका. प्रत्यक्ष रोग/किडीची खात्री झाल्यावर व नोंदणीकृत उत्पादन आवश्यक असल्यासच फवारणी करा."
+    },
+    "severity": "Healthy",
+    "safety_note": {
+      "en": "This tool is an AI screening aid, not a laboratory diagnosis. If symptoms persist or spread, consult a local agriculture expert.",
+      "hi": "यह टूल AI स्क्रीनिंग सहायता है, प्रयोगशाला निदान नहीं। लक्षण बने रहें या फैलें तो स्थानीय कृषि विशेषज्ञ से सलाह लें।",
+      "mr": "हे साधन AI आधारित प्राथमिक तपासणीसाठी आहे; प्रयोगशाळेतील निदान नाही. लक्षणे कायम राहिल्यास किंवा पसरल्यास स्थानिक कृषी तज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Blueberry___healthy": {
+    "plant": "Blueberry",
+    "name": {
+      "en": "Healthy Blueberry",
+      "hi": "स्वस्थ ब्लूबेरी",
+      "mr": "निरोगी ब्लूबेरी"
+    },
+    "symptoms": {
+      "en": "No clear disease pattern detected in the model class.",
+      "hi": "मॉडल वर्ग के अनुसार कोई स्पष्ट रोग पैटर्न नहीं मिला।",
+      "mr": "मॉडेल वर्गानुसार स्पष्ट रोगाचा नमुना आढळला नाही."
+    },
+    "what_to_do": {
+      "en": "Continue normal crop care: balanced nutrition, appropriate irrigation, field sanitation and regular scouting.",
+      "hi": "सामान्य देखभाल जारी रखें: संतुलित पोषण, उचित सिंचाई, खेत की स्वच्छता और नियमित निरीक्षण.",
+      "mr": "नियमित काळजी सुरू ठेवा: संतुलित पोषण, योग्य सिंचन, शेत स्वच्छता आणि नियमित निरीक्षण."
+    },
+    "spray": {
+      "en": "No disease spray is recommended solely because the image is classified as healthy. Spray only when a real pest/disease is confirmed and a registered product is indicated.",
+      "hi": "सिर्फ स्वस्थ वर्ग मिलने पर रोग की दवा न छिड़कें। वास्तविक रोग/कीट की पुष्टि होने और पंजीकृत उत्पाद की जरूरत होने पर ही छिड़काव करें.",
+      "mr": "फक्त निरोगी वर्ग मिळाल्यामुळे रोगनाशक फवारू नका. प्रत्यक्ष रोग/किडीची खात्री झाल्यावर व नोंदणीकृत उत्पादन आवश्यक असल्यासच फवारणी करा."
+    },
+    "severity": "Healthy",
+    "safety_note": {
+      "en": "This tool is an AI screening aid, not a laboratory diagnosis. If symptoms persist or spread, consult a local agriculture expert.",
+      "hi": "यह टूल AI स्क्रीनिंग सहायता है, प्रयोगशाला निदान नहीं। लक्षण बने रहें या फैलें तो स्थानीय कृषि विशेषज्ञ से सलाह लें।",
+      "mr": "हे साधन AI आधारित प्राथमिक तपासणीसाठी आहे; प्रयोगशाळेतील निदान नाही. लक्षणे कायम राहिल्यास किंवा पसरल्यास स्थानिक कृषी तज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Cherry_(including_sour)___healthy": {
+    "plant": "Cherry (including sour)",
+    "name": {
+      "en": "Healthy Cherry",
+      "hi": "स्वस्थ चेरी",
+      "mr": "निरोगी चेरी"
+    },
+    "symptoms": {
+      "en": "No clear disease pattern detected in the model class.",
+      "hi": "मॉडल वर्ग के अनुसार कोई स्पष्ट रोग पैटर्न नहीं मिला।",
+      "mr": "मॉडेल वर्गानुसार स्पष्ट रोगाचा नमुना आढळला नाही."
+    },
+    "what_to_do": {
+      "en": "Continue normal crop care: balanced nutrition, appropriate irrigation, field sanitation and regular scouting.",
+      "hi": "सामान्य देखभाल जारी रखें: संतुलित पोषण, उचित सिंचाई, खेत की स्वच्छता और नियमित निरीक्षण.",
+      "mr": "नियमित काळजी सुरू ठेवा: संतुलित पोषण, योग्य सिंचन, शेत स्वच्छता आणि नियमित निरीक्षण."
+    },
+    "spray": {
+      "en": "No disease spray is recommended solely because the image is classified as healthy. Spray only when a real pest/disease is confirmed and a registered product is indicated.",
+      "hi": "सिर्फ स्वस्थ वर्ग मिलने पर रोग की दवा न छिड़कें। वास्तविक रोग/कीट की पुष्टि होने और पंजीकृत उत्पाद की जरूरत होने पर ही छिड़काव करें.",
+      "mr": "फक्त निरोगी वर्ग मिळाल्यामुळे रोगनाशक फवारू नका. प्रत्यक्ष रोग/किडीची खात्री झाल्यावर व नोंदणीकृत उत्पादन आवश्यक असल्यासच फवारणी करा."
+    },
+    "severity": "Healthy",
+    "safety_note": {
+      "en": "This tool is an AI screening aid, not a laboratory diagnosis. If symptoms persist or spread, consult a local agriculture expert.",
+      "hi": "यह टूल AI स्क्रीनिंग सहायता है, प्रयोगशाला निदान नहीं। लक्षण बने रहें या फैलें तो स्थानीय कृषि विशेषज्ञ से सलाह लें।",
+      "mr": "हे साधन AI आधारित प्राथमिक तपासणीसाठी आहे; प्रयोगशाळेतील निदान नाही. लक्षणे कायम राहिल्यास किंवा पसरल्यास स्थानिक कृषी तज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Corn_(maize)___healthy": {
+    "plant": "Corn (maize)",
+    "name": {
+      "en": "Healthy Corn (Maize)",
+      "hi": "स्वस्थ मक्का",
+      "mr": "निरोगी मका"
+    },
+    "symptoms": {
+      "en": "No clear disease pattern detected in the model class.",
+      "hi": "मॉडल वर्ग के अनुसार कोई स्पष्ट रोग पैटर्न नहीं मिला।",
+      "mr": "मॉडेल वर्गानुसार स्पष्ट रोगाचा नमुना आढळला नाही."
+    },
+    "what_to_do": {
+      "en": "Continue normal crop care: balanced nutrition, appropriate irrigation, field sanitation and regular scouting.",
+      "hi": "सामान्य देखभाल जारी रखें: संतुलित पोषण, उचित सिंचाई, खेत की स्वच्छता और नियमित निरीक्षण.",
+      "mr": "नियमित काळजी सुरू ठेवा: संतुलित पोषण, योग्य सिंचन, शेत स्वच्छता आणि नियमित निरीक्षण."
+    },
+    "spray": {
+      "en": "No disease spray is recommended solely because the image is classified as healthy. Spray only when a real pest/disease is confirmed and a registered product is indicated.",
+      "hi": "सिर्फ स्वस्थ वर्ग मिलने पर रोग की दवा न छिड़कें। वास्तविक रोग/कीट की पुष्टि होने और पंजीकृत उत्पाद की जरूरत होने पर ही छिड़काव करें.",
+      "mr": "फक्त निरोगी वर्ग मिळाल्यामुळे रोगनाशक फवारू नका. प्रत्यक्ष रोग/किडीची खात्री झाल्यावर व नोंदणीकृत उत्पादन आवश्यक असल्यासच फवारणी करा."
+    },
+    "severity": "Healthy",
+    "safety_note": {
+      "en": "This tool is an AI screening aid, not a laboratory diagnosis. If symptoms persist or spread, consult a local agriculture expert.",
+      "hi": "यह टूल AI स्क्रीनिंग सहायता है, प्रयोगशाला निदान नहीं। लक्षण बने रहें या फैलें तो स्थानीय कृषि विशेषज्ञ से सलाह लें।",
+      "mr": "हे साधन AI आधारित प्राथमिक तपासणीसाठी आहे; प्रयोगशाळेतील निदान नाही. लक्षणे कायम राहिल्यास किंवा पसरल्यास स्थानिक कृषी तज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Grape___healthy": {
+    "plant": "Grape",
+    "name": {
+      "en": "Healthy Grape",
+      "hi": "स्वस्थ अंगूर",
+      "mr": "निरोगी द्राक्ष"
+    },
+    "symptoms": {
+      "en": "No clear disease pattern detected in the model class.",
+      "hi": "मॉडल वर्ग के अनुसार कोई स्पष्ट रोग पैटर्न नहीं मिला।",
+      "mr": "मॉडेल वर्गानुसार स्पष्ट रोगाचा नमुना आढळला नाही."
+    },
+    "what_to_do": {
+      "en": "Continue normal crop care: balanced nutrition, appropriate irrigation, field sanitation and regular scouting.",
+      "hi": "सामान्य देखभाल जारी रखें: संतुलित पोषण, उचित सिंचाई, खेत की स्वच्छता और नियमित निरीक्षण.",
+      "mr": "नियमित काळजी सुरू ठेवा: संतुलित पोषण, योग्य सिंचन, शेत स्वच्छता आणि नियमित निरीक्षण."
+    },
+    "spray": {
+      "en": "No disease spray is recommended solely because the image is classified as healthy. Spray only when a real pest/disease is confirmed and a registered product is indicated.",
+      "hi": "सिर्फ स्वस्थ वर्ग मिलने पर रोग की दवा न छिड़कें। वास्तविक रोग/कीट की पुष्टि होने और पंजीकृत उत्पाद की जरूरत होने पर ही छिड़काव करें.",
+      "mr": "फक्त निरोगी वर्ग मिळाल्यामुळे रोगनाशक फवारू नका. प्रत्यक्ष रोग/किडीची खात्री झाल्यावर व नोंदणीकृत उत्पादन आवश्यक असल्यासच फवारणी करा."
+    },
+    "severity": "Healthy",
+    "safety_note": {
+      "en": "This tool is an AI screening aid, not a laboratory diagnosis. If symptoms persist or spread, consult a local agriculture expert.",
+      "hi": "यह टूल AI स्क्रीनिंग सहायता है, प्रयोगशाला निदान नहीं। लक्षण बने रहें या फैलें तो स्थानीय कृषि विशेषज्ञ से सलाह लें।",
+      "mr": "हे साधन AI आधारित प्राथमिक तपासणीसाठी आहे; प्रयोगशाळेतील निदान नाही. लक्षणे कायम राहिल्यास किंवा पसरल्यास स्थानिक कृषी तज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Peach___healthy": {
+    "plant": "Peach",
+    "name": {
+      "en": "Healthy Peach",
+      "hi": "स्वस्थ आड़ू",
+      "mr": "निरोगी आडू"
+    },
+    "symptoms": {
+      "en": "No clear disease pattern detected in the model class.",
+      "hi": "मॉडल वर्ग के अनुसार कोई स्पष्ट रोग पैटर्न नहीं मिला।",
+      "mr": "मॉडेल वर्गानुसार स्पष्ट रोगाचा नमुना आढळला नाही."
+    },
+    "what_to_do": {
+      "en": "Continue normal crop care: balanced nutrition, appropriate irrigation, field sanitation and regular scouting.",
+      "hi": "सामान्य देखभाल जारी रखें: संतुलित पोषण, उचित सिंचाई, खेत की स्वच्छता और नियमित निरीक्षण.",
+      "mr": "नियमित काळजी सुरू ठेवा: संतुलित पोषण, योग्य सिंचन, शेत स्वच्छता आणि नियमित निरीक्षण."
+    },
+    "spray": {
+      "en": "No disease spray is recommended solely because the image is classified as healthy. Spray only when a real pest/disease is confirmed and a registered product is indicated.",
+      "hi": "सिर्फ स्वस्थ वर्ग मिलने पर रोग की दवा न छिड़कें। वास्तविक रोग/कीट की पुष्टि होने और पंजीकृत उत्पाद की जरूरत होने पर ही छिड़काव करें.",
+      "mr": "फक्त निरोगी वर्ग मिळाल्यामुळे रोगनाशक फवारू नका. प्रत्यक्ष रोग/किडीची खात्री झाल्यावर व नोंदणीकृत उत्पादन आवश्यक असल्यासच फवारणी करा."
+    },
+    "severity": "Healthy",
+    "safety_note": {
+      "en": "This tool is an AI screening aid, not a laboratory diagnosis. If symptoms persist or spread, consult a local agriculture expert.",
+      "hi": "यह टूल AI स्क्रीनिंग सहायता है, प्रयोगशाला निदान नहीं। लक्षण बने रहें या फैलें तो स्थानीय कृषि विशेषज्ञ से सलाह लें।",
+      "mr": "हे साधन AI आधारित प्राथमिक तपासणीसाठी आहे; प्रयोगशाळेतील निदान नाही. लक्षणे कायम राहिल्यास किंवा पसरल्यास स्थानिक कृषी तज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Pepper,_bell___healthy": {
+    "plant": "Pepper, bell",
+    "name": {
+      "en": "Healthy Bell Pepper",
+      "hi": "स्वस्थ शिमला मिर्च",
+      "mr": "निरोगी ढोबळी मिरची"
+    },
+    "symptoms": {
+      "en": "No clear disease pattern detected in the model class.",
+      "hi": "मॉडल वर्ग के अनुसार कोई स्पष्ट रोग पैटर्न नहीं मिला।",
+      "mr": "मॉडेल वर्गानुसार स्पष्ट रोगाचा नमुना आढळला नाही."
+    },
+    "what_to_do": {
+      "en": "Continue normal crop care: balanced nutrition, appropriate irrigation, field sanitation and regular scouting.",
+      "hi": "सामान्य देखभाल जारी रखें: संतुलित पोषण, उचित सिंचाई, खेत की स्वच्छता और नियमित निरीक्षण.",
+      "mr": "नियमित काळजी सुरू ठेवा: संतुलित पोषण, योग्य सिंचन, शेत स्वच्छता आणि नियमित निरीक्षण."
+    },
+    "spray": {
+      "en": "No disease spray is recommended solely because the image is classified as healthy. Spray only when a real pest/disease is confirmed and a registered product is indicated.",
+      "hi": "सिर्फ स्वस्थ वर्ग मिलने पर रोग की दवा न छिड़कें। वास्तविक रोग/कीट की पुष्टि होने और पंजीकृत उत्पाद की जरूरत होने पर ही छिड़काव करें.",
+      "mr": "फक्त निरोगी वर्ग मिळाल्यामुळे रोगनाशक फवारू नका. प्रत्यक्ष रोग/किडीची खात्री झाल्यावर व नोंदणीकृत उत्पादन आवश्यक असल्यासच फवारणी करा."
+    },
+    "severity": "Healthy",
+    "safety_note": {
+      "en": "This tool is an AI screening aid, not a laboratory diagnosis. If symptoms persist or spread, consult a local agriculture expert.",
+      "hi": "यह टूल AI स्क्रीनिंग सहायता है, प्रयोगशाला निदान नहीं। लक्षण बने रहें या फैलें तो स्थानीय कृषि विशेषज्ञ से सलाह लें।",
+      "mr": "हे साधन AI आधारित प्राथमिक तपासणीसाठी आहे; प्रयोगशाळेतील निदान नाही. लक्षणे कायम राहिल्यास किंवा पसरल्यास स्थानिक कृषी तज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Potato___healthy": {
+    "plant": "Potato",
+    "name": {
+      "en": "Healthy Potato",
+      "hi": "स्वस्थ आलू",
+      "mr": "निरोगी बटाटा"
+    },
+    "symptoms": {
+      "en": "No clear disease pattern detected in the model class.",
+      "hi": "मॉडल वर्ग के अनुसार कोई स्पष्ट रोग पैटर्न नहीं मिला।",
+      "mr": "मॉडेल वर्गानुसार स्पष्ट रोगाचा नमुना आढळला नाही."
+    },
+    "what_to_do": {
+      "en": "Continue normal crop care: balanced nutrition, appropriate irrigation, field sanitation and regular scouting.",
+      "hi": "सामान्य देखभाल जारी रखें: संतुलित पोषण, उचित सिंचाई, खेत की स्वच्छता और नियमित निरीक्षण.",
+      "mr": "नियमित काळजी सुरू ठेवा: संतुलित पोषण, योग्य सिंचन, शेत स्वच्छता आणि नियमित निरीक्षण."
+    },
+    "spray": {
+      "en": "No disease spray is recommended solely because the image is classified as healthy. Spray only when a real pest/disease is confirmed and a registered product is indicated.",
+      "hi": "सिर्फ स्वस्थ वर्ग मिलने पर रोग की दवा न छिड़कें। वास्तविक रोग/कीट की पुष्टि होने और पंजीकृत उत्पाद की जरूरत होने पर ही छिड़काव करें.",
+      "mr": "फक्त निरोगी वर्ग मिळाल्यामुळे रोगनाशक फवारू नका. प्रत्यक्ष रोग/किडीची खात्री झाल्यावर व नोंदणीकृत उत्पादन आवश्यक असल्यासच फवारणी करा."
+    },
+    "severity": "Healthy",
+    "safety_note": {
+      "en": "This tool is an AI screening aid, not a laboratory diagnosis. If symptoms persist or spread, consult a local agriculture expert.",
+      "hi": "यह टूल AI स्क्रीनिंग सहायता है, प्रयोगशाला निदान नहीं। लक्षण बने रहें या फैलें तो स्थानीय कृषि विशेषज्ञ से सलाह लें।",
+      "mr": "हे साधन AI आधारित प्राथमिक तपासणीसाठी आहे; प्रयोगशाळेतील निदान नाही. लक्षणे कायम राहिल्यास किंवा पसरल्यास स्थानिक कृषी तज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Raspberry___healthy": {
+    "plant": "Raspberry",
+    "name": {
+      "en": "Healthy Raspberry",
+      "hi": "स्वस्थ रास्पबेरी",
+      "mr": "निरोगी रास्पबेरी"
+    },
+    "symptoms": {
+      "en": "No clear disease pattern detected in the model class.",
+      "hi": "मॉडल वर्ग के अनुसार कोई स्पष्ट रोग पैटर्न नहीं मिला।",
+      "mr": "मॉडेल वर्गानुसार स्पष्ट रोगाचा नमुना आढळला नाही."
+    },
+    "what_to_do": {
+      "en": "Continue normal crop care: balanced nutrition, appropriate irrigation, field sanitation and regular scouting.",
+      "hi": "सामान्य देखभाल जारी रखें: संतुलित पोषण, उचित सिंचाई, खेत की स्वच्छता और नियमित निरीक्षण.",
+      "mr": "नियमित काळजी सुरू ठेवा: संतुलित पोषण, योग्य सिंचन, शेत स्वच्छता आणि नियमित निरीक्षण."
+    },
+    "spray": {
+      "en": "No disease spray is recommended solely because the image is classified as healthy. Spray only when a real pest/disease is confirmed and a registered product is indicated.",
+      "hi": "सिर्फ स्वस्थ वर्ग मिलने पर रोग की दवा न छिड़कें। वास्तविक रोग/कीट की पुष्टि होने और पंजीकृत उत्पाद की जरूरत होने पर ही छिड़काव करें.",
+      "mr": "फक्त निरोगी वर्ग मिळाल्यामुळे रोगनाशक फवारू नका. प्रत्यक्ष रोग/किडीची खात्री झाल्यावर व नोंदणीकृत उत्पादन आवश्यक असल्यासच फवारणी करा."
+    },
+    "severity": "Healthy",
+    "safety_note": {
+      "en": "This tool is an AI screening aid, not a laboratory diagnosis. If symptoms persist or spread, consult a local agriculture expert.",
+      "hi": "यह टूल AI स्क्रीनिंग सहायता है, प्रयोगशाला निदान नहीं। लक्षण बने रहें या फैलें तो स्थानीय कृषि विशेषज्ञ से सलाह लें।",
+      "mr": "हे साधन AI आधारित प्राथमिक तपासणीसाठी आहे; प्रयोगशाळेतील निदान नाही. लक्षणे कायम राहिल्यास किंवा पसरल्यास स्थानिक कृषी तज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Soybean___healthy": {
+    "plant": "Soybean",
+    "name": {
+      "en": "Healthy Soybean",
+      "hi": "स्वस्थ सोयाबीन",
+      "mr": "निरोगी सोयाबीन"
+    },
+    "symptoms": {
+      "en": "No clear disease pattern detected in the model class.",
+      "hi": "मॉडल वर्ग के अनुसार कोई स्पष्ट रोग पैटर्न नहीं मिला।",
+      "mr": "मॉडेल वर्गानुसार स्पष्ट रोगाचा नमुना आढळला नाही."
+    },
+    "what_to_do": {
+      "en": "Continue normal crop care: balanced nutrition, appropriate irrigation, field sanitation and regular scouting.",
+      "hi": "सामान्य देखभाल जारी रखें: संतुलित पोषण, उचित सिंचाई, खेत की स्वच्छता और नियमित निरीक्षण.",
+      "mr": "नियमित काळजी सुरू ठेवा: संतुलित पोषण, योग्य सिंचन, शेत स्वच्छता आणि नियमित निरीक्षण."
+    },
+    "spray": {
+      "en": "No disease spray is recommended solely because the image is classified as healthy. Spray only when a real pest/disease is confirmed and a registered product is indicated.",
+      "hi": "सिर्फ स्वस्थ वर्ग मिलने पर रोग की दवा न छिड़कें। वास्तविक रोग/कीट की पुष्टि होने और पंजीकृत उत्पाद की जरूरत होने पर ही छिड़काव करें.",
+      "mr": "फक्त निरोगी वर्ग मिळाल्यामुळे रोगनाशक फवारू नका. प्रत्यक्ष रोग/किडीची खात्री झाल्यावर व नोंदणीकृत उत्पादन आवश्यक असल्यासच फवारणी करा."
+    },
+    "severity": "Healthy",
+    "safety_note": {
+      "en": "This tool is an AI screening aid, not a laboratory diagnosis. If symptoms persist or spread, consult a local agriculture expert.",
+      "hi": "यह टूल AI स्क्रीनिंग सहायता है, प्रयोगशाला निदान नहीं। लक्षण बने रहें या फैलें तो स्थानीय कृषि विशेषज्ञ से सलाह लें।",
+      "mr": "हे साधन AI आधारित प्राथमिक तपासणीसाठी आहे; प्रयोगशाळेतील निदान नाही. लक्षणे कायम राहिल्यास किंवा पसरल्यास स्थानिक कृषी तज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Strawberry___healthy": {
+    "plant": "Strawberry",
+    "name": {
+      "en": "Healthy Strawberry",
+      "hi": "स्वस्थ स्ट्रॉबेरी",
+      "mr": "निरोगी स्ट्रॉबेरी"
+    },
+    "symptoms": {
+      "en": "No clear disease pattern detected in the model class.",
+      "hi": "मॉडल वर्ग के अनुसार कोई स्पष्ट रोग पैटर्न नहीं मिला।",
+      "mr": "मॉडेल वर्गानुसार स्पष्ट रोगाचा नमुना आढळला नाही."
+    },
+    "what_to_do": {
+      "en": "Continue normal crop care: balanced nutrition, appropriate irrigation, field sanitation and regular scouting.",
+      "hi": "सामान्य देखभाल जारी रखें: संतुलित पोषण, उचित सिंचाई, खेत की स्वच्छता और नियमित निरीक्षण.",
+      "mr": "नियमित काळजी सुरू ठेवा: संतुलित पोषण, योग्य सिंचन, शेत स्वच्छता आणि नियमित निरीक्षण."
+    },
+    "spray": {
+      "en": "No disease spray is recommended solely because the image is classified as healthy. Spray only when a real pest/disease is confirmed and a registered product is indicated.",
+      "hi": "सिर्फ स्वस्थ वर्ग मिलने पर रोग की दवा न छिड़कें। वास्तविक रोग/कीट की पुष्टि होने और पंजीकृत उत्पाद की जरूरत होने पर ही छिड़काव करें.",
+      "mr": "फक्त निरोगी वर्ग मिळाल्यामुळे रोगनाशक फवारू नका. प्रत्यक्ष रोग/किडीची खात्री झाल्यावर व नोंदणीकृत उत्पादन आवश्यक असल्यासच फवारणी करा."
+    },
+    "severity": "Healthy",
+    "safety_note": {
+      "en": "This tool is an AI screening aid, not a laboratory diagnosis. If symptoms persist or spread, consult a local agriculture expert.",
+      "hi": "यह टूल AI स्क्रीनिंग सहायता है, प्रयोगशाला निदान नहीं। लक्षण बने रहें या फैलें तो स्थानीय कृषि विशेषज्ञ से सलाह लें।",
+      "mr": "हे साधन AI आधारित प्राथमिक तपासणीसाठी आहे; प्रयोगशाळेतील निदान नाही. लक्षणे कायम राहिल्यास किंवा पसरल्यास स्थानिक कृषी तज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Tomato___healthy": {
+    "plant": "Tomato",
+    "name": {
+      "en": "Healthy Tomato",
+      "hi": "स्वस्थ टमाटर",
+      "mr": "निरोगी टोमॅटो"
+    },
+    "symptoms": {
+      "en": "No clear disease pattern detected in the model class.",
+      "hi": "मॉडल वर्ग के अनुसार कोई स्पष्ट रोग पैटर्न नहीं मिला।",
+      "mr": "मॉडेल वर्गानुसार स्पष्ट रोगाचा नमुना आढळला नाही."
+    },
+    "what_to_do": {
+      "en": "Continue normal crop care: balanced nutrition, appropriate irrigation, field sanitation and regular scouting.",
+      "hi": "सामान्य देखभाल जारी रखें: संतुलित पोषण, उचित सिंचाई, खेत की स्वच्छता और नियमित निरीक्षण.",
+      "mr": "नियमित काळजी सुरू ठेवा: संतुलित पोषण, योग्य सिंचन, शेत स्वच्छता आणि नियमित निरीक्षण."
+    },
+    "spray": {
+      "en": "No disease spray is recommended solely because the image is classified as healthy. Spray only when a real pest/disease is confirmed and a registered product is indicated.",
+      "hi": "सिर्फ स्वस्थ वर्ग मिलने पर रोग की दवा न छिड़कें। वास्तविक रोग/कीट की पुष्टि होने और पंजीकृत उत्पाद की जरूरत होने पर ही छिड़काव करें.",
+      "mr": "फक्त निरोगी वर्ग मिळाल्यामुळे रोगनाशक फवारू नका. प्रत्यक्ष रोग/किडीची खात्री झाल्यावर व नोंदणीकृत उत्पादन आवश्यक असल्यासच फवारणी करा."
+    },
+    "severity": "Healthy",
+    "safety_note": {
+      "en": "This tool is an AI screening aid, not a laboratory diagnosis. If symptoms persist or spread, consult a local agriculture expert.",
+      "hi": "यह टूल AI स्क्रीनिंग सहायता है, प्रयोगशाला निदान नहीं। लक्षण बने रहें या फैलें तो स्थानीय कृषि विशेषज्ञ से सलाह लें।",
+      "mr": "हे साधन AI आधारित प्राथमिक तपासणीसाठी आहे; प्रयोगशाळेतील निदान नाही. लक्षणे कायम राहिल्यास किंवा पसरल्यास स्थानिक कृषी तज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "plant": "Cherry",
+    "name": {
+      "en": "Cherry Powdery Mildew",
+      "hi": "चेरी का पाउडरी मिल्ड्यू",
+      "mr": "चेरीवरील भुरी रोग"
+    },
+    "symptoms": {
+      "en": "White powdery growth and curled/distorted leaves.",
+      "hi": "पत्तियों पर सफेद चूर्ण जैसी परत और मुड़ी/विकृत पत्तियाँ.",
+      "mr": "पानांवर पांढरी भुरी वाढ व वाकडी/विकृत पाने."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Sulfur or another registered powdery-mildew fungicide may be an option where labeled; avoid sulfur during heat conditions that can injure the crop.",
+      "hi": "जहाँ लेबल अनुमति दे वहाँ सल्फर या पाउडरी मिल्ड्यू के लिए पंजीकृत फफूंदनाशक विकल्प हो सकता है; तेज गर्मी में सल्फर से फसल को नुकसान हो सकता है.",
+      "mr": "लेबल परवानगी देत असल्यास सल्फर किंवा भुरीसाठी नोंदणीकृत बुरशीनाशक पर्याय असू शकतो; तीव्र उष्णतेत सल्फरमुळे पिकाला इजा होऊ शकते."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "plant": "Corn (maize)",
+    "name": {
+      "en": "Corn Gray Leaf Spot",
+      "hi": "मक्का ग्रे लीफ स्पॉट",
+      "mr": "मक्यावरील ग्रे लीफ स्पॉट"
+    },
+    "symptoms": {
+      "en": "Long gray/tan rectangular lesions between leaf veins.",
+      "hi": "पत्तियों की नसों के बीच लंबे धूसर/भूरे आयताकार धब्बे.",
+      "mr": "पानांच्या शिरांमध्ये लांबट करडे/तपकिरी आयताकृती डाग."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Use a fungicide registered for this specific crop and disease; common active ingredients used in plant disease programs include mancozeb, copper, sulfur, azoxystrobin or triazoles, but the exact product must be label-approved.",
+      "hi": "इस फसल और रोग के लिए पंजीकृत फफूंदनाशक चुनें; मैनकोजेब, कॉपर, सल्फर, एज़ॉक्सीस्ट्रोबिन या ट्रायाज़ोल जैसे सक्रिय घटक कुछ रोगों में उपयोग होते हैं, लेकिन सही उत्पाद का लेबल मिलान जरूरी है.",
+      "mr": "या पिक व रोगासाठी नोंदणीकृत बुरशीनाशक निवडा; मॅन्कोझेब, कॉपर, सल्फर, अॅझॉक्सिस्ट्रोबिन किंवा ट्रायाझोल काही रोगांत वापरले जातात, पण योग्य उत्पादनाचे लेबल जुळणे आवश्यक आहे."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Corn_(maize)___Common_rust_": {
+    "plant": "Corn (maize)",
+    "name": {
+      "en": "Corn Common Rust",
+      "hi": "मक्का कॉमन रस्ट",
+      "mr": "मक्यावरील कॉमन रस्ट"
+    },
+    "symptoms": {
+      "en": "Small reddish-brown rust pustules on leaves.",
+      "hi": "पत्तियों पर छोटे लाल-भूरे रस्ट के उभरे दाने.",
+      "mr": "पानांवर लहान लाल-तपकिरी रस्टचे उठाव."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Use a fungicide registered for this specific crop and disease; common active ingredients used in plant disease programs include mancozeb, copper, sulfur, azoxystrobin or triazoles, but the exact product must be label-approved.",
+      "hi": "इस फसल और रोग के लिए पंजीकृत फफूंदनाशक चुनें; मैनकोजेब, कॉपर, सल्फर, एज़ॉक्सीस्ट्रोबिन या ट्रायाज़ोल जैसे सक्रिय घटक कुछ रोगों में उपयोग होते हैं, लेकिन सही उत्पाद का लेबल मिलान जरूरी है.",
+      "mr": "या पिक व रोगासाठी नोंदणीकृत बुरशीनाशक निवडा; मॅन्कोझेब, कॉपर, सल्फर, अॅझॉक्सिस्ट्रोबिन किंवा ट्रायाझोल काही रोगांत वापरले जातात, पण योग्य उत्पादनाचे लेबल जुळणे आवश्यक आहे."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "plant": "Corn (maize)",
+    "name": {
+      "en": "Corn Northern Leaf Blight",
+      "hi": "मक्का नॉर्दर्न लीफ ब्लाइट",
+      "mr": "मक्यावरील नॉर्दर्न लीफ ब्लाइट"
+    },
+    "symptoms": {
+      "en": "Long cigar-shaped gray-green lesions.",
+      "hi": "पत्तियों पर लंबे सिगार जैसे धूसर-हरे धब्बे.",
+      "mr": "पानांवर लांब सिगारसारखे करडे-हिरवे डाग."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Use a fungicide registered for this specific crop and disease; common active ingredients used in plant disease programs include mancozeb, copper, sulfur, azoxystrobin or triazoles, but the exact product must be label-approved.",
+      "hi": "इस फसल और रोग के लिए पंजीकृत फफूंदनाशक चुनें; मैनकोजेब, कॉपर, सल्फर, एज़ॉक्सीस्ट्रोबिन या ट्रायाज़ोल जैसे सक्रिय घटक कुछ रोगों में उपयोग होते हैं, लेकिन सही उत्पाद का लेबल मिलान जरूरी है.",
+      "mr": "या पिक व रोगासाठी नोंदणीकृत बुरशीनाशक निवडा; मॅन्कोझेब, कॉपर, सल्फर, अॅझॉक्सिस्ट्रोबिन किंवा ट्रायाझोल काही रोगांत वापरले जातात, पण योग्य उत्पादनाचे लेबल जुळणे आवश्यक आहे."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Grape___Black_rot": {
+    "plant": "Grape",
+    "name": {
+      "en": "Grape Black Rot",
+      "hi": "अंगूर का ब्लैक रॉट",
+      "mr": "द्राक्षावरील ब्लॅक रॉट"
+    },
+    "symptoms": {
+      "en": "Tan/brown leaf spots and shriveled dark fruit.",
+      "hi": "पत्तियों पर भूरे धब्बे और सिकुड़े हुए काले फल.",
+      "mr": "पानांवर तपकिरी डाग व काळसर आकसलेली फळे."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Use a fungicide registered for this specific crop and disease; common active ingredients used in plant disease programs include mancozeb, copper, sulfur, azoxystrobin or triazoles, but the exact product must be label-approved.",
+      "hi": "इस फसल और रोग के लिए पंजीकृत फफूंदनाशक चुनें; मैनकोजेब, कॉपर, सल्फर, एज़ॉक्सीस्ट्रोबिन या ट्रायाज़ोल जैसे सक्रिय घटक कुछ रोगों में उपयोग होते हैं, लेकिन सही उत्पाद का लेबल मिलान जरूरी है.",
+      "mr": "या पिक व रोगासाठी नोंदणीकृत बुरशीनाशक निवडा; मॅन्कोझेब, कॉपर, सल्फर, अॅझॉक्सिस्ट्रोबिन किंवा ट्रायाझोल काही रोगांत वापरले जातात, पण योग्य उत्पादनाचे लेबल जुळणे आवश्यक आहे."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "plant": "Grape",
+    "name": {
+      "en": "Grape Esca / Black Measles",
+      "hi": "अंगूर एस्का / ब्लैक मीसल्स",
+      "mr": "द्राक्षावरील एस्का / ब्लॅक मीजल्स"
+    },
+    "symptoms": {
+      "en": "Leaf striping/mottling with dark fruit spotting; chronic vine decline may occur.",
+      "hi": "पत्तियों पर धारियाँ/चितकबरेपन और फलों पर काले धब्बे; बेल कमजोर हो सकती है.",
+      "mr": "पानांवर पट्टे/ठिपके व फळांवर काळे डाग; वेल हळूहळू कमजोर होऊ शकते."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Use a fungicide registered for this specific crop and disease; common active ingredients used in plant disease programs include mancozeb, copper, sulfur, azoxystrobin or triazoles, but the exact product must be label-approved.",
+      "hi": "इस फसल और रोग के लिए पंजीकृत फफूंदनाशक चुनें; मैनकोजेब, कॉपर, सल्फर, एज़ॉक्सीस्ट्रोबिन या ट्रायाज़ोल जैसे सक्रिय घटक कुछ रोगों में उपयोग होते हैं, लेकिन सही उत्पाद का लेबल मिलान जरूरी है.",
+      "mr": "या पिक व रोगासाठी नोंदणीकृत बुरशीनाशक निवडा; मॅन्कोझेब, कॉपर, सल्फर, अॅझॉक्सिस्ट्रोबिन किंवा ट्रायाझोल काही रोगांत वापरले जातात, पण योग्य उत्पादनाचे लेबल जुळणे आवश्यक आहे."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "plant": "Grape",
+    "name": {
+      "en": "Grape Leaf Blight / Isariopsis Leaf Spot",
+      "hi": "अंगूर लीफ ब्लाइट",
+      "mr": "द्राक्षावरील लीफ ब्लाइट / इसारिओप्सिस लीफ स्पॉट"
+    },
+    "symptoms": {
+      "en": "Brown to dark leaf spots that enlarge and may cause defoliation.",
+      "hi": "भूरे से गहरे धब्बे जो बढ़कर पत्तियाँ गिरा सकते हैं.",
+      "mr": "तपकिरी ते गडद डाग वाढून पाने गळू शकतात."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Use a fungicide registered for this specific crop and disease; common active ingredients used in plant disease programs include mancozeb, copper, sulfur, azoxystrobin or triazoles, but the exact product must be label-approved.",
+      "hi": "इस फसल और रोग के लिए पंजीकृत फफूंदनाशक चुनें; मैनकोजेब, कॉपर, सल्फर, एज़ॉक्सीस्ट्रोबिन या ट्रायाज़ोल जैसे सक्रिय घटक कुछ रोगों में उपयोग होते हैं, लेकिन सही उत्पाद का लेबल मिलान जरूरी है.",
+      "mr": "या पिक व रोगासाठी नोंदणीकृत बुरशीनाशक निवडा; मॅन्कोझेब, कॉपर, सल्फर, अॅझॉक्सिस्ट्रोबिन किंवा ट्रायाझोल काही रोगांत वापरले जातात, पण योग्य उत्पादनाचे लेबल जुळणे आवश्यक आहे."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "plant": "Orange",
+    "name": {
+      "en": "Citrus Huanglongbing (Greening)",
+      "hi": "सिट्रस ग्रीनिंग",
+      "mr": "सिट्रस ग्रीनिंग"
+    },
+    "symptoms": {
+      "en": "Blotchy mottled leaves, poor fruit coloring and small/uneven fruit.",
+      "hi": "पत्तियों पर असमान पीला-हरा चितकबरापन और छोटे/असमान फल.",
+      "mr": "पानांवर असमान पिवळट-हिरवे चितकबरेपण व लहान/असम फळे."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Use a fungicide registered for this specific crop and disease; common active ingredients used in plant disease programs include mancozeb, copper, sulfur, azoxystrobin or triazoles, but the exact product must be label-approved.",
+      "hi": "इस फसल और रोग के लिए पंजीकृत फफूंदनाशक चुनें; मैनकोजेब, कॉपर, सल्फर, एज़ॉक्सीस्ट्रोबिन या ट्रायाज़ोल जैसे सक्रिय घटक कुछ रोगों में उपयोग होते हैं, लेकिन सही उत्पाद का लेबल मिलान जरूरी है.",
+      "mr": "या पिक व रोगासाठी नोंदणीकृत बुरशीनाशक निवडा; मॅन्कोझेब, कॉपर, सल्फर, अॅझॉक्सिस्ट्रोबिन किंवा ट्रायाझोल काही रोगांत वापरले जातात, पण योग्य उत्पादनाचे लेबल जुळणे आवश्यक आहे."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Peach___Bacterial_spot": {
+    "plant": "Peach",
+    "name": {
+      "en": "Peach Bacterial Spot",
+      "hi": "आड़ू का बैक्टीरियल स्पॉट",
+      "mr": "आडूवरील बॅक्टेरियल स्पॉट"
+    },
+    "symptoms": {
+      "en": "Small water-soaked spots that darken; fruit may pit or crack.",
+      "hi": "छोटे पानी जैसे धब्बे बाद में गहरे हो जाते हैं; फलों पर गड्ढे/दरारें हो सकती हैं.",
+      "mr": "लहान पाणचट डाग नंतर गडद होतात; फळांवर खळगे/तडे पडू शकतात."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Consider a crop- and disease-labeled copper product where registered; antibiotics should only be used if officially recommended and labeled.",
+      "hi": "जहाँ पंजीकृत हो वहाँ फसल/रोग के लिए लेबल वाला कॉपर उत्पाद विकल्प हो सकता है; एंटीबायोटिक केवल आधिकारिक सलाह और लेबल के अनुसार.",
+      "mr": "नोंदणीकृत असल्यास पिक/रोगासाठी लेबल असलेले कॉपर उत्पादन पर्याय असू शकते; प्रतिजैविक फक्त अधिकृत सल्ला व लेबलनुसार."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "plant": "Bell Pepper",
+    "name": {
+      "en": "Bell Pepper Bacterial Spot",
+      "hi": "शिमला मिर्च बैक्टीरियल स्पॉट",
+      "mr": "ढोबळी मिरचीवरील बॅक्टेरियल स्पॉट"
+    },
+    "symptoms": {
+      "en": "Small water-soaked brown spots with yellow halos; fruit spots may be scabby.",
+      "hi": "पत्तियों पर पीले घेरे वाले पानी जैसे भूरे धब्बे; फलों पर खुरदरे धब्बे.",
+      "mr": "पानांवर पिवळ्या कडेचे पाणचट तपकिरी डाग; फळांवर खरखरीत डाग."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Consider a crop- and disease-labeled copper product where registered; antibiotics should only be used if officially recommended and labeled.",
+      "hi": "जहाँ पंजीकृत हो वहाँ फसल/रोग के लिए लेबल वाला कॉपर उत्पाद विकल्प हो सकता है; एंटीबायोटिक केवल आधिकारिक सलाह और लेबल के अनुसार.",
+      "mr": "नोंदणीकृत असल्यास पिक/रोगासाठी लेबल असलेले कॉपर उत्पादन पर्याय असू शकते; प्रतिजैविक फक्त अधिकृत सल्ला व लेबलनुसार."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Potato___Early_blight": {
+    "plant": "Potato",
+    "name": {
+      "en": "Potato Early Blight",
+      "hi": "आलू अर्ली ब्लाइट",
+      "mr": "बटाट्यावरील अर्ली ब्लाइट"
+    },
+    "symptoms": {
+      "en": "Dark concentric-ring spots on older leaves.",
+      "hi": "पुरानी पत्तियों पर गोल, छल्लेदार गहरे धब्बे.",
+      "mr": "जुन्या पानांवर वर्तुळाकार गडद डाग."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Use a fungicide registered for this specific crop and disease; common active ingredients used in plant disease programs include mancozeb, copper, sulfur, azoxystrobin or triazoles, but the exact product must be label-approved.",
+      "hi": "इस फसल और रोग के लिए पंजीकृत फफूंदनाशक चुनें; मैनकोजेब, कॉपर, सल्फर, एज़ॉक्सीस्ट्रोबिन या ट्रायाज़ोल जैसे सक्रिय घटक कुछ रोगों में उपयोग होते हैं, लेकिन सही उत्पाद का लेबल मिलान जरूरी है.",
+      "mr": "या पिक व रोगासाठी नोंदणीकृत बुरशीनाशक निवडा; मॅन्कोझेब, कॉपर, सल्फर, अॅझॉक्सिस्ट्रोबिन किंवा ट्रायाझोल काही रोगांत वापरले जातात, पण योग्य उत्पादनाचे लेबल जुळणे आवश्यक आहे."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Potato___Late_blight": {
+    "plant": "Potato",
+    "name": {
+      "en": "Potato Late Blight",
+      "hi": "आलू लेट ब्लाइट",
+      "mr": "बटाट्यावरील लेट ब्लाइट"
+    },
+    "symptoms": {
+      "en": "Water-soaked dark lesions that expand rapidly; tubers can develop brown rot.",
+      "hi": "पानी जैसे गहरे धब्बे तेजी से फैलते हैं; कंदों में भूरी सड़न हो सकती है.",
+      "mr": "पाणचट गडद डाग झपाट्याने वाढतात; कंदांमध्ये तपकिरी कुज होऊ शकते."
+    },
+    "what_to_do": {
+      "en": "Remove badly infected tissue, avoid overhead irrigation, improve drainage/airflow and act early because late blight can spread rapidly.",
+      "hi": "बहुत संक्रमित भाग हटाएँ, ऊपर से सिंचाई से बचें, जल निकास/हवा का संचार सुधारें और जल्दी कार्रवाई करें क्योंकि लेट ब्लाइट तेजी से फैल सकता है.",
+      "mr": "जास्त संक्रमित भाग काढा, वरून पाणी देणे टाळा, निचरा/हवा खेळती ठेवा आणि लवकर उपाय करा कारण लेट ब्लाइट झपाट्याने पसरतो."
+    },
+    "spray": {
+      "en": "Registered late-blight products can include mancozeb, copper products or specific oomycete fungicides such as cyazofamid, depending on crop and local label.",
+      "hi": "लेट ब्लाइट के लिए पंजीकृत विकल्पों में फसल/लेबल के अनुसार मैनकोजेब, कॉपर उत्पाद या विशिष्ट ओओमाइसीट फफूंदनाशक जैसे सायाजोफामिड शामिल हो सकते हैं.",
+      "mr": "लेट ब्लाइटसाठी पिक/लेबलनुसार मॅन्कोझेब, कॉपर किंवा सायाझोफामिडसारखी विशिष्ट बुरशीनाशके नोंदणीकृत पर्याय असू शकतात."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Squash___Powdery_mildew": {
+    "plant": "Squash",
+    "name": {
+      "en": "Squash Powdery Mildew",
+      "hi": "स्क्वैश पाउडरी मिल्ड्यू",
+      "mr": "स्क्वॅशवरील भुरी"
+    },
+    "symptoms": {
+      "en": "White powdery patches on leaves.",
+      "hi": "पत्तियों पर सफेद चूर्ण जैसी परत.",
+      "mr": "पानांवर पांढरी भुरी वाढ."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Sulfur or another registered powdery-mildew fungicide may be an option where labeled; avoid sulfur during heat conditions that can injure the crop.",
+      "hi": "जहाँ लेबल अनुमति दे वहाँ सल्फर या पाउडरी मिल्ड्यू के लिए पंजीकृत फफूंदनाशक विकल्प हो सकता है; तेज गर्मी में सल्फर से फसल को नुकसान हो सकता है.",
+      "mr": "लेबल परवानगी देत असल्यास सल्फर किंवा भुरीसाठी नोंदणीकृत बुरशीनाशक पर्याय असू शकतो; तीव्र उष्णतेत सल्फरमुळे पिकाला इजा होऊ शकते."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Strawberry___Leaf_scorch": {
+    "plant": "Strawberry",
+    "name": {
+      "en": "Strawberry Leaf Scorch",
+      "hi": "स्ट्रॉबेरी लीफ स्कॉर्च",
+      "mr": "स्ट्रॉबेरी लीफ स्कॉर्च"
+    },
+    "symptoms": {
+      "en": "Small dark purple spots that enlarge and give scorched appearance.",
+      "hi": "छोटे बैंगनी-भूरे धब्बे बढ़कर झुलसा हुआ रूप देते हैं.",
+      "mr": "लहान जांभळट-तपकिरी डाग वाढून पाने करपल्यासारखी दिसतात."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Use a fungicide registered for this specific crop and disease; common active ingredients used in plant disease programs include mancozeb, copper, sulfur, azoxystrobin or triazoles, but the exact product must be label-approved.",
+      "hi": "इस फसल और रोग के लिए पंजीकृत फफूंदनाशक चुनें; मैनकोजेब, कॉपर, सल्फर, एज़ॉक्सीस्ट्रोबिन या ट्रायाज़ोल जैसे सक्रिय घटक कुछ रोगों में उपयोग होते हैं, लेकिन सही उत्पाद का लेबल मिलान जरूरी है.",
+      "mr": "या पिक व रोगासाठी नोंदणीकृत बुरशीनाशक निवडा; मॅन्कोझेब, कॉपर, सल्फर, अॅझॉक्सिस्ट्रोबिन किंवा ट्रायाझोल काही रोगांत वापरले जातात, पण योग्य उत्पादनाचे लेबल जुळणे आवश्यक आहे."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Tomato___Bacterial_spot": {
+    "plant": "Tomato",
+    "name": {
+      "en": "Tomato Bacterial Spot",
+      "hi": "टमाटर बैक्टीरियल स्पॉट",
+      "mr": "टोमॅटो बॅक्टेरियल स्पॉट"
+    },
+    "symptoms": {
+      "en": "Small brown water-soaked spots on leaves and fruit.",
+      "hi": "पत्तियों और फलों पर छोटे भूरे पानी जैसे धब्बे.",
+      "mr": "पानांवर व फळांवर लहान तपकिरी पाणचट डाग."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Consider a crop- and disease-labeled copper product where registered; antibiotics should only be used if officially recommended and labeled.",
+      "hi": "जहाँ पंजीकृत हो वहाँ फसल/रोग के लिए लेबल वाला कॉपर उत्पाद विकल्प हो सकता है; एंटीबायोटिक केवल आधिकारिक सलाह और लेबल के अनुसार.",
+      "mr": "नोंदणीकृत असल्यास पिक/रोगासाठी लेबल असलेले कॉपर उत्पादन पर्याय असू शकते; प्रतिजैविक फक्त अधिकृत सल्ला व लेबलनुसार."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Tomato___Early_blight": {
+    "plant": "Tomato",
+    "name": {
+      "en": "Tomato Early Blight",
+      "hi": "टमाटर अर्ली ब्लाइट",
+      "mr": "टोमॅटो अर्ली ब्लाइट"
+    },
+    "symptoms": {
+      "en": "Dark concentric-ring lesions, usually beginning on older leaves.",
+      "hi": "गहरे छल्लेदार धब्बे, अक्सर पुरानी पत्तियों से शुरू.",
+      "mr": "गडद वर्तुळाकार डाग, बहुतेक जुन्या पानांपासून सुरू होतात."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Use a fungicide registered for this specific crop and disease; common active ingredients used in plant disease programs include mancozeb, copper, sulfur, azoxystrobin or triazoles, but the exact product must be label-approved.",
+      "hi": "इस फसल और रोग के लिए पंजीकृत फफूंदनाशक चुनें; मैनकोजेब, कॉपर, सल्फर, एज़ॉक्सीस्ट्रोबिन या ट्रायाज़ोल जैसे सक्रिय घटक कुछ रोगों में उपयोग होते हैं, लेकिन सही उत्पाद का लेबल मिलान जरूरी है.",
+      "mr": "या पिक व रोगासाठी नोंदणीकृत बुरशीनाशक निवडा; मॅन्कोझेब, कॉपर, सल्फर, अॅझॉक्सिस्ट्रोबिन किंवा ट्रायाझोल काही रोगांत वापरले जातात, पण योग्य उत्पादनाचे लेबल जुळणे आवश्यक आहे."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Tomato___Late_blight": {
+    "plant": "Tomato",
+    "name": {
+      "en": "Tomato Late Blight",
+      "hi": "टमाटर लेट ब्लाइट",
+      "mr": "टोमॅटो लेट ब्लाइट"
+    },
+    "symptoms": {
+      "en": "Water-soaked dark lesions that expand quickly; fruit can develop firm brown lesions.",
+      "hi": "पानी जैसे गहरे धब्बे तेजी से फैलते हैं; फलों पर सख्त भूरे धब्बे हो सकते हैं.",
+      "mr": "पाणचट गडद डाग झपाट्याने वाढतात; फळांवर घट्ट तपकिरी डाग येऊ शकतात."
+    },
+    "what_to_do": {
+      "en": "Remove badly infected tissue, avoid overhead irrigation, improve drainage/airflow and act early because late blight can spread rapidly.",
+      "hi": "बहुत संक्रमित भाग हटाएँ, ऊपर से सिंचाई से बचें, जल निकास/हवा का संचार सुधारें और जल्दी कार्रवाई करें क्योंकि लेट ब्लाइट तेजी से फैल सकता है.",
+      "mr": "जास्त संक्रमित भाग काढा, वरून पाणी देणे टाळा, निचरा/हवा खेळती ठेवा आणि लवकर उपाय करा कारण लेट ब्लाइट झपाट्याने पसरतो."
+    },
+    "spray": {
+      "en": "Registered late-blight products can include mancozeb, copper products or specific oomycete fungicides such as cyazofamid, depending on crop and local label.",
+      "hi": "लेट ब्लाइट के लिए पंजीकृत विकल्पों में फसल/लेबल के अनुसार मैनकोजेब, कॉपर उत्पाद या विशिष्ट ओओमाइसीट फफूंदनाशक जैसे सायाजोफामिड शामिल हो सकते हैं.",
+      "mr": "लेट ब्लाइटसाठी पिक/लेबलनुसार मॅन्कोझेब, कॉपर किंवा सायाझोफामिडसारखी विशिष्ट बुरशीनाशके नोंदणीकृत पर्याय असू शकतात."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Tomato___Leaf_Mold": {
+    "plant": "Tomato",
+    "name": {
+      "en": "Tomato Leaf Mold",
+      "hi": "टमाटर लीफ मोल्ड",
+      "mr": "टोमॅटो लीफ मोल्ड"
+    },
+    "symptoms": {
+      "en": "Yellow patches on upper leaf surface with olive/gray mold underneath.",
+      "hi": "ऊपरी सतह पर पीले धब्बे और नीचे जैतूनी/धूसर फफूंद.",
+      "mr": "पानांच्या वरच्या बाजूस पिवळे डाग व खाली ऑलिव्ह/करडी बुरशी."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Use a fungicide registered for this specific crop and disease; common active ingredients used in plant disease programs include mancozeb, copper, sulfur, azoxystrobin or triazoles, but the exact product must be label-approved.",
+      "hi": "इस फसल और रोग के लिए पंजीकृत फफूंदनाशक चुनें; मैनकोजेब, कॉपर, सल्फर, एज़ॉक्सीस्ट्रोबिन या ट्रायाज़ोल जैसे सक्रिय घटक कुछ रोगों में उपयोग होते हैं, लेकिन सही उत्पाद का लेबल मिलान जरूरी है.",
+      "mr": "या पिक व रोगासाठी नोंदणीकृत बुरशीनाशक निवडा; मॅन्कोझेब, कॉपर, सल्फर, अॅझॉक्सिस्ट्रोबिन किंवा ट्रायाझोल काही रोगांत वापरले जातात, पण योग्य उत्पादनाचे लेबल जुळणे आवश्यक आहे."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "plant": "Tomato",
+    "name": {
+      "en": "Tomato Septoria Leaf Spot",
+      "hi": "टमाटर सेप्टोरिया लीफ स्पॉट",
+      "mr": "टोमॅटो सेप्टोरिया लीफ स्पॉट"
+    },
+    "symptoms": {
+      "en": "Many small circular spots with dark margins and pale centers.",
+      "hi": "कई छोटे गोल धब्बे, गहरी किनारी और हल्का केंद्र.",
+      "mr": "अनेक लहान गोल डाग, गडद कडा व फिकट मध्यभाग."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Use a fungicide registered for this specific crop and disease; common active ingredients used in plant disease programs include mancozeb, copper, sulfur, azoxystrobin or triazoles, but the exact product must be label-approved.",
+      "hi": "इस फसल और रोग के लिए पंजीकृत फफूंदनाशक चुनें; मैनकोजेब, कॉपर, सल्फर, एज़ॉक्सीस्ट्रोबिन या ट्रायाज़ोल जैसे सक्रिय घटक कुछ रोगों में उपयोग होते हैं, लेकिन सही उत्पाद का लेबल मिलान जरूरी है.",
+      "mr": "या पिक व रोगासाठी नोंदणीकृत बुरशीनाशक निवडा; मॅन्कोझेब, कॉपर, सल्फर, अॅझॉक्सिस्ट्रोबिन किंवा ट्रायाझोल काही रोगांत वापरले जातात, पण योग्य उत्पादनाचे लेबल जुळणे आवश्यक आहे."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "plant": "Tomato",
+    "name": {
+      "en": "Tomato Two-Spotted Spider Mite",
+      "hi": "टमाटर टू-स्पॉटेड स्पाइडर माइट",
+      "mr": "टोमॅटो टू-स्पॉटेड स्पायडर माइट"
+    },
+    "symptoms": {
+      "en": "Fine stippling/yellowing, webbing and leaf bronzing under heavy infestation.",
+      "hi": "बारीक पीले बिंदु, जाला और अधिक प्रकोप में पत्तियों का कांस्य रंग.",
+      "mr": "सूक्ष्म पिवळे ठिपके, जाळे व जास्त प्रादुर्भावात पाने कांस्य रंगाची होतात."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Use a registered acaricide for the crop and mite species; rotate modes of action and follow the label.",
+      "hi": "फसल और माइट के लिए पंजीकृत एकारिसाइड का लेबल के अनुसार उपयोग करें और अलग-अलग कार्य-विधियों को बदलकर उपयोग करें.",
+      "mr": "पिक व माइट प्रजातीसाठी नोंदणीकृत अॅकारिसाइड लेबलनुसार वापरा आणि कार्यपद्धती बदलून वापरा."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Tomato___Target_Spot": {
+    "plant": "Tomato",
+    "name": {
+      "en": "Tomato Target Spot",
+      "hi": "टमाटर टार्गेट स्पॉट",
+      "mr": "टोमॅटो टार्गेट स्पॉट"
+    },
+    "symptoms": {
+      "en": "Brown circular lesions with concentric rings on leaves and fruit.",
+      "hi": "पत्तियों/फलों पर छल्लेदार भूरे गोल धब्बे.",
+      "mr": "पानांवर/फळांवर वर्तुळाकार कडांसह तपकिरी डाग."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "Use a fungicide registered for this specific crop and disease; common active ingredients used in plant disease programs include mancozeb, copper, sulfur, azoxystrobin or triazoles, but the exact product must be label-approved.",
+      "hi": "इस फसल और रोग के लिए पंजीकृत फफूंदनाशक चुनें; मैनकोजेब, कॉपर, सल्फर, एज़ॉक्सीस्ट्रोबिन या ट्रायाज़ोल जैसे सक्रिय घटक कुछ रोगों में उपयोग होते हैं, लेकिन सही उत्पाद का लेबल मिलान जरूरी है.",
+      "mr": "या पिक व रोगासाठी नोंदणीकृत बुरशीनाशक निवडा; मॅन्कोझेब, कॉपर, सल्फर, अॅझॉक्सिस्ट्रोबिन किंवा ट्रायाझोल काही रोगांत वापरले जातात, पण योग्य उत्पादनाचे लेबल जुळणे आवश्यक आहे."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "plant": "Tomato",
+    "name": {
+      "en": "Tomato Yellow Leaf Curl Virus",
+      "hi": "टमाटर येलो लीफ कर्ल वायरस",
+      "mr": "टोमॅटो यलो लीफ कर्ल व्हायरस"
+    },
+    "symptoms": {
+      "en": "Upward leaf curling, yellowing, stunting and reduced fruit set.",
+      "hi": "पत्तियाँ ऊपर की ओर मुड़ना, पीली होना, पौधे का बौना रहना और फल कम लगना.",
+      "mr": "पाने वर वळणे, पिवळी होणे, वाढ खुंटणे व फळधारणा कमी होणे."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "There is no curative spray for the virus itself. Control vectors, remove severely infected plants, use clean planting material and follow local extension advice.",
+      "hi": "वायरस का कोई उपचारात्मक स्प्रे नहीं है; वाहक कीटों को नियंत्रित करें, संक्रमित पौधे हटाएँ और स्वस्थ रोपण सामग्री रखें.",
+      "mr": "व्हायरसवर उपचार करणारी फवारणी नाही; वाहक किडी नियंत्रित करा, संक्रमित झाडे काढा आणि निरोगी लागवड साहित्य वापरा."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "plant": "Tomato",
+    "name": {
+      "en": "Tomato Mosaic Virus",
+      "hi": "टमाटर मोज़ेक वायरस",
+      "mr": "टोमॅटो मोझेक व्हायरस"
+    },
+    "symptoms": {
+      "en": "Mottled light/dark green leaves, distortion and reduced growth.",
+      "hi": "पत्तियों पर हल्के-गहरे हरे चितकबरे पैटर्न, विकृति और कम वृद्धि.",
+      "mr": "पानांवर फिकट-गडद हिरवे चितकबरेपण, विकृती व कमी वाढ."
+    },
+    "what_to_do": {
+      "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
+      "hi": "जहाँ संभव हो संक्रमित पत्ते/फल हटाएँ, ऊपर से सिंचाई से बचें, हवा का संचार बढ़ाएँ और खेत साफ रखें.",
+      "mr": "शक्य असल्यास संक्रमित पाने/फळे काढा, वरून पाणी देणे टाळा, हवा खेळती ठेवा आणि शेत स्वच्छ ठेवा."
+    },
+    "spray": {
+      "en": "There is no curative spray for the virus itself. Control vectors, remove severely infected plants, use clean planting material and follow local extension advice.",
+      "hi": "वायरस का कोई उपचारात्मक स्प्रे नहीं है; वाहक कीटों को नियंत्रित करें, संक्रमित पौधे हटाएँ और स्वस्थ रोपण सामग्री रखें.",
+      "mr": "व्हायरसवर उपचार करणारी फवारणी नाही; वाहक किडी नियंत्रित करा, संक्रमित झाडे काढा आणि निरोगी लागवड साहित्य वापरा."
+    },
+    "severity": "Moderate",
+    "safety_note": {
+      "en": "Use only a pesticide/fungicide/bactericide registered for this crop and disease in your area. Follow the product label for dose, waiting period and PPE; do not mix products unless the label permits. For uncertain or severe cases, contact a local agriculture officer/plant pathologist.",
+      "hi": "केवल उसी फसल और रोग के लिए आपके क्षेत्र में पंजीकृत दवा का उपयोग करें। लेबल पर दी मात्रा, प्रतीक्षा अवधि और सुरक्षा निर्देश मानें। गंभीर/अनिश्चित स्थिति में कृषि अधिकारी/पादप रोग विशेषज्ञ से सलाह लें।",
+      "mr": "तुमच्या भागात या पिकासाठी व रोगासाठी नोंदणीकृत औषधच वापरा. लेबलवरील मात्रा, प्रतीक्षा कालावधी व सुरक्षिततेच्या सूचना पाळा. गंभीर/अनिश्चित स्थितीत कृषी अधिकारी/वनस्पती रोगतज्ज्ञांचा सल्ला घ्या."
+    }
+  }
+}

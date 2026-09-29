@@ -1,0 +1,21 @@
+{
+    "model_name": "VGG16",
+    "dataset": "PlantVillage",
+    "num_classes": 38,
+    "image_size": [
+        224,
+        224
+    ],
+    "batch_size": 32,
+    "epochs_requested": 10,
+    "epochs_completed": 10,
+    "training_accuracy": 0.9039119482040405,
+    "final_validation_accuracy": 0.9015277028083801,
+    "best_validation_accuracy": 0.9015277028083801,
+    "training_time_minutes": 126.89278792937597,
+    "model_file": "VGG16.keras",
+    "best_weights_file": "best_model.weights.h5",
+    "classification_report_file": "classification_report.txt",
+    "confusion_matrix_file": "confusion_matrix.png",
+    "training_log_file": "training_log.csv"
+}

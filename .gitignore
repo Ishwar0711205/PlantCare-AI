@@ -1,0 +1,48 @@
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+build/
+.npm/
+
+# Database
+*.db
+users.db
+data/*.db
+
+# Logs & temp
+logs/
+*.log
+scratch/
+temp/
+tmp/
+*.tmp
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Models - Ignore huge model files from repo
+# Document download links instead
+models/*.keras
+models/*.h5
+models/**/*.keras
+models/**/*.h5
+
+# Ignore Large UI Assets Folders
+New folder/
