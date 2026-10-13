@@ -2,9 +2,9 @@
 title: PlantCare AI
 emoji: 🌿
 colorFrom: green
-colorTo: emerald
-sdk: docker
-app_port: 7860
+colorTo: blue
+sdk: gradio
+app_file: app.py
 pinned: false
 ---
 
