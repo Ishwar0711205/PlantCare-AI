@@ -9,7 +9,13 @@ from .. import model_utils
 ROOT = Path(__file__).parent.parent.parent
 MODEL_DIR = ROOT / "models"
 
-with open(ROOT / "frontend" / "public" / "class_names.json", encoding="utf-8") as f:
+class_path = ROOT / "frontend" / "public" / "class_names.json"
+if not class_path.exists():
+    class_path = ROOT / "frontend" / "dist" / "class_names.json"
+if not class_path.exists():
+    class_path = ROOT / "class_names.json"
+
+with open(class_path, encoding="utf-8") as f:
     CLASSES: list = json.load(f)
 
 MODEL_PATHS = {}

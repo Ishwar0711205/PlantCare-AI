@@ -1,3 +1,13 @@
+---
+title: PlantCare AI
+emoji: 🌿
+colorFrom: green
+colorTo: emerald
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # PlantCare AI — Plant Leaf Disease Detection System
 
 An AI-powered agricultural application for detecting plant leaf diseases across **38 crop condition classes** using **5 Deep Learning model architectures** (Custom CNN, EfficientNetB0, MobileNetV2, ResNet50, VGG16) with **multilingual support** (English, Hindi, Marathi) and **Devanagari numeral formatting**.
@@ -63,6 +73,15 @@ Place `kaggle.json` in project root and run:
 ```cmd
 python scripts/setup_plantvillage_images.py
 ```
+
+### 5. Deploy to Hugging Face Spaces (All-in-One Cloud Hosting)
+Deploy both the React frontend and FastAPI backend with deep learning models in 1 command:
+```cmd
+python scripts/deploy_to_hf_space.py
+```
+- Authenticates using your free Hugging Face Write Token.
+- Automatically handles `.keras` model weights via Git LFS.
+- Serves the application publicly on port 7860.
 
 ## 🧠 Model Weights & Dataset Downloads
 
