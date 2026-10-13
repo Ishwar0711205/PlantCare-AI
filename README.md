@@ -1,54 +1,84 @@
-# PlantCare AI
+# PlantCare AI — Plant Leaf Disease Detection System
 
-An AI-powered agricultural tool designed to detect plant leaf diseases using Deep Learning. It classifies uploaded leaf images into one of 38 classes (from the PlantVillage dataset) and provides disease symptoms, prevention steps, and spray/treatment guidance. 
+An AI-powered agricultural application for detecting plant leaf diseases across **38 crop condition classes** using **5 Deep Learning model architectures** (Custom CNN, EfficientNetB0, MobileNetV2, ResNet50, VGG16) with **multilingual support** (English, Hindi, Marathi) and **Devanagari numeral formatting**.
 
-## Features
-- **38-Class Detection**: Identifies diseases across multiple crops like Tomato, Potato, Apple, Corn, Grapes, and more.
-- **5 Deep Learning Models**: Choose from Custom CNN, VGG16, MobileNetV2, ResNet50, and EfficientNetB0 for inference.
-- **Multilingual Support**: Disease symptoms, what-to-do guidance, and spray/active-ingredient guidance provided in **English, Hindi, and Marathi**.
-- **Modern Web App**: A beautiful, responsive React frontend UI served by a fast FastAPI backend.
-- **Standalone App**: A legacy Streamlit app is also included for quick, all-in-one local testing.
-- **Healthy Plants Gallery**: A reference tab for identifying healthy crop leaves.
+---
 
-## Project Structure
-The repository is structured to separate concerns while sharing a single source of truth for data:
-- `frontend/`: Contains the React + Vite frontend application.
-  - `frontend/public/`: Acts as the data source for both the frontend and backend. Contains `class_names.json`, `plant_info.json`, `model_results.json`, and the `healthy_images/` directory.
-- `models/`: Contains the compiled `.keras` deep learning models and their training metadata.
-- `backend.py`: The FastAPI server that handles inference and user authentication.
-- `app.py`: The standalone Streamlit UI.
-- `users.db`: SQLite database for handling local login/signup.
+## 📌 Academic Information
+- **Institution**: Vidyalankar Institute of Technology
+- **Department**: Department of Information Technology (Academic Year 2026–27)
+- **Project Title**: Plant Disease Classification Using Deep Learning
+- **Team Members**: Vinay Yadav, Akash Misale, Jay Jangam, Ishwar Garje
+- **Project Guide**: Dr. Sushopti Gawade
 
-## How to Run
+---
 
-### Option 1: Full Stack (React + FastAPI)
-This is the recommended way to run the full application.
-1. Install Python requirements:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Install Frontend requirements:
-   ```bash
-   cd frontend
-   npm install
-   cd ..
-   ```
-3. Start both services using the provided batch script:
-   ```bash
-   .\run.bat
-   ```
-   *The backend will be available at `http://localhost:8000` and the frontend UI at `http://localhost:5173`.*
+## ⚡ Quick Start (1-Click Run)
 
-### Option 2: Standalone Streamlit App
-If you prefer a simpler, single-script interface:
-1. Install Python requirements:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Start the Streamlit app using the provided batch script:
-   ```bash
-   .\run_streamlit.bat
-   ```
+To run the complete system (FastAPI Backend + React Frontend):
 
-## Important Treatment Note
-Spray guidance is deliberately written as active-ingredient/category guidance, not a prescription. Product registration, crop label, formulation, dose, pre-harvest interval, PPE and local restrictions must be checked before use. The AI prediction is a screening aid, not a laboratory diagnosis.
+```cmd
+run.bat
+```
+
+> **`run.bat` auto-configures everything:**
+> - Auto-creates `data/` directory and `.env` file from `.env.example`.
+> - Checks and installs `npm` dependencies if `node_modules` is missing.
+> - Starts FastAPI backend on `http://localhost:8000`.
+> - Starts React Vite frontend on `http://localhost:5173` (or `5174`).
+
+---
+
+## 📚 Complete Command Reference & Documentation
+
+For full architectural details, manual terminal commands, API endpoints, troubleshooting guide, and Kaggle dataset commands, read the full guide:
+
+➡️ **[PROJECT_GUIDE.md](file:///c:/Users/ishwar/Desktop/dl%20project/PROJECT_GUIDE.md)**
+
+---
+
+## 💻 Essential Terminal Commands
+
+### 1. Run Backend Only (FastAPI)
+```cmd
+python -m uvicorn backend.backend:app --host 0.0.0.0 --port 8000 --reload
+```
+- Swagger API Docs: `http://localhost:8000/docs`
+
+### 2. Run Frontend Only (React + Vite)
+```cmd
+cd frontend
+npm install
+npm run dev -- --host
+```
+
+### 3. Create Shareable ZIP for WhatsApp / Email
+```cmd
+python scripts/create_shareable_zip.py
+```
+- Output ZIP: `C:\Users\ishwar\Desktop\PlantCare-AI-Project.zip` (~511 MB)
+
+### 4. Download Full Kaggle Dataset
+Place `kaggle.json` in project root and run:
+```cmd
+python scripts/setup_plantvillage_images.py
+```
+
+## 🧠 Model Weights & Dataset Downloads
+
+Because trained deep learning weights (`*.keras`, `*.h5`) and the full dataset are large binary files, they are excluded from the git repository via `.gitignore`:
+- **Trained Models (`models/`)**: Place the trained model files (`CNN.keras`, `EfficientNetB0.keras`, `MobileNetV2.keras`, `ResNet50.keras`, `VGG16.keras`) in the `models/` folder. If you downloaded the bundled release archive (`PlantCare-AI-Project.zip`), these weights are pre-included. Alternatively, download model weights from your team's Google Drive / Hugging Face repository.
+- **PlantVillage Dataset**: The models are trained on the 38-class PlantVillage dataset (~54,305 leaf images). Download it from [Kaggle: PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantvillage-dataset) or run `python scripts/setup_plantvillage_images.py` with your `kaggle.json`.
+
+---
+
+## ⚠️ Sharing Instructions for Friends
+
+When sharing `PlantCare-AI-Project.zip` with friends:
+1. They extract `PlantCare-AI-Project.zip`.
+2. Double-click `run.bat` (it automatically installs dependencies and starts the app).
+3. Open `http://localhost:5173` in their browser and click **Sign Up** to create their own local account.
+
+---
+
+© 2026 Vidyalankar Institute of Technology. Department of Information Technology.

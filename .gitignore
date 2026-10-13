@@ -46,3 +46,8 @@ models/**/*.h5
 
 # Ignore Large UI Assets Folders
 New folder/
+*.zip
+PlantCare-AI-Project.zip
+unhelathy_leaf/
+kaggle.json
+frontend/dist/
