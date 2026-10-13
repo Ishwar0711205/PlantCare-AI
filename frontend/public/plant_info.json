@@ -3,8 +3,8 @@
     "plant": "Apple",
     "name": {
       "en": "Apple Scab",
-      "hi": "सेब का स्कैब",
-      "mr": "सफरचंदाचा स्कॅब"
+      "hi": "सेब पपड़ी रोग",
+      "mr": "सफरचंद खपली रोग"
     },
     "symptoms": {
       "en": "Olive-green to dark scabby spots on leaves or fruit; fruit may become cracked or distorted.",
@@ -19,7 +19,7 @@
     "spray": {
       "en": "Label-registered options may include captan or suitable fungicides for apple scab; confirm the current local label.",
       "hi": "लेबल-अनुसार कैप्टान या स्कैब के लिए पंजीकृत उपयुक्त फफूंदनाशक विकल्प हो सकते हैं; स्थानीय लेबल जांचें.",
-      "mr": "लेबलनुसार कॅप्टन किंवा स्कॅबसाठी नोंदणीकृत योग्य बुरशीनाशक वापरता येऊ शकते; स्थानिक लेबल तपासा."
+      "mr": "लेबलनुसार कॅप्टन किंवा खपली रोगासाठी नोंदणीकृत योग्य बुरशीनाशक वापरता येऊ शकते; स्थानिक लेबल तपासा."
     },
     "severity": "Moderate",
     "safety_note": {
@@ -32,23 +32,23 @@
     "plant": "Apple",
     "name": {
       "en": "Apple Black Rot",
-      "hi": "सेब का ब्लैक रॉट",
-      "mr": "सफरचंदाचा ब्लॅक रॉट"
+      "hi": "सेब काला सड़न",
+      "mr": "सफरचंद काळा कुज"
     },
     "symptoms": {
       "en": "Purple/brown leaf spots, cankers and dark rotting fruit.",
       "hi": "पत्तियों पर बैंगनी/भूरे धब्बे, तने पर कैंकर और फल पर काला सड़न.",
-      "mr": "पानांवर जांभळट/तपकिरी डाग, खोडावर कॅंकर आणि फळांवर काळी कुज."
+      "mr": "पानांवर जांभळट/तपकिरी डाग, खोडावर जखमा आणि फळांवर काळी कुज."
     },
     "what_to_do": {
       "en": "Prune dead/cankered wood and remove mummified fruit; sanitize tools and improve airflow.",
       "hi": "सूखी/कैंकर वाली टहनियाँ और सूखे सड़े फल हटाएँ; औजार साफ रखें और हवा का संचार बढ़ाएँ.",
-      "mr": "मृत/कॅंकर झालेल्या फांद्या व सुकलेली कुजलेली फळे काढा; साधने निर्जंतुक ठेवा आणि हवा खेळती ठेवा."
+      "mr": "वाळलेल्या/रोगट फांद्या व सुकलेली कुजलेली फळे काढा; अवजारे निर्जंतुक ठेवा आणि हवा खेळती ठेवा."
     },
     "spray": {
       "en": "Use a fungicide specifically registered for apple black rot/scab in your jurisdiction; copper products may be used only where the label permits.",
-      "hi": "अपने क्षेत्र में सेब ब्लैक रॉट/स्कैब के लिए पंजीकृत फफूंदनाशक ही चुनें; कॉपर उत्पाद तभी जब लेबल अनुमति दे.",
-      "mr": "आपल्या भागात नोंदणीकृत ब्लॅक रॉट/स्कॅबसाठी बुरशीनाशक निवडा; लेबल परवानगी देत असल्यासच कॉपर वापरा."
+      "hi": "अपने क्षेत्र में काला सड़न या पपड़ी रोग के लिए पंजीकृत कवकनाशी ही चुनें; कॉपर उत्पाद तभी जब लेबल अनुमति दे.",
+      "mr": "आपल्या भागात काळा कुज किंवा खपली रोगासाठी नोंदणीकृत योग्य बुरशीनाशक निवडा; लेबल परवानगी देत असल्यासच तांबायुक्त उत्पादने वापरा."
     },
     "severity": "Moderate",
     "safety_note": {
@@ -61,8 +61,8 @@
     "plant": "Apple",
     "name": {
       "en": "Cedar Apple Rust",
-      "hi": "सेडर एप्पल रस्ट",
-      "mr": "सिडर-ॲपल रस्ट"
+      "hi": "सेब सिडार रतुआ रोग",
+      "mr": "सफरचंद सिडर तांबेरा"
     },
     "symptoms": {
       "en": "Yellow-orange leaf spots; later dark specks and premature leaf drop.",
@@ -76,8 +76,8 @@
     },
     "spray": {
       "en": "Use a rust fungicide registered for apple and timed according to local extension/label guidance.",
-      "hi": "सेब के लिए पंजीकृत रस्ट फफूंदनाशक को स्थानीय लेबल/कृषि सलाह के अनुसार समय पर उपयोग करें.",
-      "mr": "सफरचंदासाठी नोंदणीकृत रस्ट बुरशीनाशक स्थानिक लेबल/कृषी सल्ल्यानुसार वापरा."
+      "hi": "सेब के लिए पंजीकृत रतुआ कवकनाशी को स्थानीय लेबल/कृषि सलाह के अनुसार समय पर उपयोग करें.",
+      "mr": "सफरचंदासाठी नोंदणीकृत तांबेरा बुरशीनाशक स्थानिक लेबल/कृषी सल्ल्यानुसार वापरा."
     },
     "severity": "Moderate",
     "safety_note": {
@@ -438,8 +438,8 @@
     "plant": "Cherry",
     "name": {
       "en": "Cherry Powdery Mildew",
-      "hi": "चेरी का पाउडरी मिल्ड्यू",
-      "mr": "चेरीवरील भुरी रोग"
+      "hi": "चेरी चूर्णिल आसिता (भभूतिया रोग)",
+      "mr": "चेरी भुरी रोग"
     },
     "symptoms": {
       "en": "White powdery growth and curled/distorted leaves.",
@@ -453,8 +453,8 @@
     },
     "spray": {
       "en": "Sulfur or another registered powdery-mildew fungicide may be an option where labeled; avoid sulfur during heat conditions that can injure the crop.",
-      "hi": "जहाँ लेबल अनुमति दे वहाँ सल्फर या पाउडरी मिल्ड्यू के लिए पंजीकृत फफूंदनाशक विकल्प हो सकता है; तेज गर्मी में सल्फर से फसल को नुकसान हो सकता है.",
-      "mr": "लेबल परवानगी देत असल्यास सल्फर किंवा भुरीसाठी नोंदणीकृत बुरशीनाशक पर्याय असू शकतो; तीव्र उष्णतेत सल्फरमुळे पिकाला इजा होऊ शकते."
+      "hi": "जहाँ लेबल अनुमति दे वहाँ सल्फर या चूर्णिल आसिता (भभूतिया रोग) के लिए पंजीकृत कवकनाशी का उपयोग करें; तेज गर्मी में सल्फर से फसल को नुकसान हो सकता है.",
+      "mr": "लेबल परवानगी देत असल्यास गंधक (सल्फर) किंवा भुरी रोगासाठी नोंदणीकृत बुरशीनाशक वापरा; तीव्र उष्णतेत सल्फरमुळे पिकाला इजा होऊ शकते."
     },
     "severity": "Moderate",
     "safety_note": {
@@ -467,8 +467,8 @@
     "plant": "Corn (maize)",
     "name": {
       "en": "Corn Gray Leaf Spot",
-      "hi": "मक्का ग्रे लीफ स्पॉट",
-      "mr": "मक्यावरील ग्रे लीफ स्पॉट"
+      "hi": "मक्का धूसर पत्ती धब्बा रोग",
+      "mr": "मका पानावरील करडे ठिपके"
     },
     "symptoms": {
       "en": "Long gray/tan rectangular lesions between leaf veins.",
@@ -496,13 +496,13 @@
     "plant": "Corn (maize)",
     "name": {
       "en": "Corn Common Rust",
-      "hi": "मक्का कॉमन रस्ट",
-      "mr": "मक्यावरील कॉमन रस्ट"
+      "hi": "मक्का सामान्य रतुआ रोग",
+      "mr": "मका सामान्य तांबेरा रोग"
     },
     "symptoms": {
       "en": "Small reddish-brown rust pustules on leaves.",
-      "hi": "पत्तियों पर छोटे लाल-भूरे रस्ट के उभरे दाने.",
-      "mr": "पानांवर लहान लाल-तपकिरी रस्टचे उठाव."
+      "hi": "पत्तियों पर छोटे लाल-भूरे रतुआ के उभरे दाने.",
+      "mr": "पानांवर लहान तांबूस-तपकिरी तांबेऱ्याचे उठाव."
     },
     "what_to_do": {
       "en": "Remove infected leaves/fruit where practical, avoid overhead irrigation, improve airflow, and keep the field clean.",
@@ -525,8 +525,8 @@
     "plant": "Corn (maize)",
     "name": {
       "en": "Corn Northern Leaf Blight",
-      "hi": "मक्का नॉर्दर्न लीफ ब्लाइट",
-      "mr": "मक्यावरील नॉर्दर्न लीफ ब्लाइट"
+      "hi": "मक्का उत्तरी पत्ती झुलसा रोग",
+      "mr": "मका उत्तरेकडील पानांचा करपा"
     },
     "symptoms": {
       "en": "Long cigar-shaped gray-green lesions.",
@@ -554,8 +554,8 @@
     "plant": "Grape",
     "name": {
       "en": "Grape Black Rot",
-      "hi": "अंगूर का ब्लैक रॉट",
-      "mr": "द्राक्षावरील ब्लॅक रॉट"
+      "hi": "अंगूर काला सड़न",
+      "mr": "द्राक्ष काळा कुज"
     },
     "symptoms": {
       "en": "Tan/brown leaf spots and shriveled dark fruit.",
@@ -582,9 +582,9 @@
   "Grape___Esca_(Black_Measles)": {
     "plant": "Grape",
     "name": {
-      "en": "Grape Esca / Black Measles",
-      "hi": "अंगूर एस्का / ब्लैक मीसल्स",
-      "mr": "द्राक्षावरील एस्का / ब्लॅक मीजल्स"
+      "en": "Grape Esca (Black Measles)",
+      "hi": "अंगूर एस्का (काला चेचक रोग)",
+      "mr": "द्राक्ष एस्का (काळे डाग रोग)"
     },
     "symptoms": {
       "en": "Leaf striping/mottling with dark fruit spotting; chronic vine decline may occur.",
@@ -611,9 +611,9 @@
   "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
     "plant": "Grape",
     "name": {
-      "en": "Grape Leaf Blight / Isariopsis Leaf Spot",
-      "hi": "अंगूर लीफ ब्लाइट",
-      "mr": "द्राक्षावरील लीफ ब्लाइट / इसारिओप्सिस लीफ स्पॉट"
+      "en": "Grape Leaf Blight (Isariopsis Leaf Spot)",
+      "hi": "अंगूर पत्ती झुलसा रोग",
+      "mr": "द्राक्ष पानांचा करपा"
     },
     "symptoms": {
       "en": "Brown to dark leaf spots that enlarge and may cause defoliation.",
@@ -641,8 +641,8 @@
     "plant": "Orange",
     "name": {
       "en": "Citrus Huanglongbing (Greening)",
-      "hi": "सिट्रस ग्रीनिंग",
-      "mr": "सिट्रस ग्रीनिंग"
+      "hi": "संतरा सिट्रस ग्रीनिंग (हरित रोग)",
+      "mr": "संत्री सिट्रस ग्रीनिंग (हरित रोग)"
     },
     "symptoms": {
       "en": "Blotchy mottled leaves, poor fruit coloring and small/uneven fruit.",
@@ -670,8 +670,8 @@
     "plant": "Peach",
     "name": {
       "en": "Peach Bacterial Spot",
-      "hi": "आड़ू का बैक्टीरियल स्पॉट",
-      "mr": "आडूवरील बॅक्टेरियल स्पॉट"
+      "hi": "आड़ू जीवाणु धब्बा रोग",
+      "mr": "आडू जिवाणूजन्य ठिपके"
     },
     "symptoms": {
       "en": "Small water-soaked spots that darken; fruit may pit or crack.",
@@ -699,8 +699,8 @@
     "plant": "Bell Pepper",
     "name": {
       "en": "Bell Pepper Bacterial Spot",
-      "hi": "शिमला मिर्च बैक्टीरियल स्पॉट",
-      "mr": "ढोबळी मिरचीवरील बॅक्टेरियल स्पॉट"
+      "hi": "शिमला मिर्च का जीवाणु धब्बा रोग",
+      "mr": "ढोबळी मिरची जिवाणूजन्य ठिपके"
     },
     "symptoms": {
       "en": "Small water-soaked brown spots with yellow halos; fruit spots may be scabby.",
@@ -728,8 +728,8 @@
     "plant": "Potato",
     "name": {
       "en": "Potato Early Blight",
-      "hi": "आलू अर्ली ब्लाइट",
-      "mr": "बटाट्यावरील अर्ली ब्लाइट"
+      "hi": "आलू अगेती झुलसा रोग",
+      "mr": "बटाटा लवकर येणारा करपा"
     },
     "symptoms": {
       "en": "Dark concentric-ring spots on older leaves.",
@@ -757,8 +757,8 @@
     "plant": "Potato",
     "name": {
       "en": "Potato Late Blight",
-      "hi": "आलू लेट ब्लाइट",
-      "mr": "बटाट्यावरील लेट ब्लाइट"
+      "hi": "आलू पछेती झुलसा रोग",
+      "mr": "बटाटा उशिरा येणारा करपा"
     },
     "symptoms": {
       "en": "Water-soaked dark lesions that expand rapidly; tubers can develop brown rot.",
@@ -767,13 +767,13 @@
     },
     "what_to_do": {
       "en": "Remove badly infected tissue, avoid overhead irrigation, improve drainage/airflow and act early because late blight can spread rapidly.",
-      "hi": "बहुत संक्रमित भाग हटाएँ, ऊपर से सिंचाई से बचें, जल निकास/हवा का संचार सुधारें और जल्दी कार्रवाई करें क्योंकि लेट ब्लाइट तेजी से फैल सकता है.",
-      "mr": "जास्त संक्रमित भाग काढा, वरून पाणी देणे टाळा, निचरा/हवा खेळती ठेवा आणि लवकर उपाय करा कारण लेट ब्लाइट झपाट्याने पसरतो."
+      "hi": "अत्यधिक संक्रमित भाग हटाएँ, ऊपर से सिंचाई से बचें, जल निकास और हवा का संचार सुधारें और तुरंत उपाय करें क्योंकि पछेती झुलसा तेजी से फैलता है.",
+      "mr": "जास्त संसर्ग झालेले भाग काढून नष्ट करा, वरून पाणी देणे टाळा, निचरा व हवा खेळती ठेवा आणि त्वरित उपाय करा कारण उशिरा येणारा करपा झपाट्याने पसरतो."
     },
     "spray": {
       "en": "Registered late-blight products can include mancozeb, copper products or specific oomycete fungicides such as cyazofamid, depending on crop and local label.",
-      "hi": "लेट ब्लाइट के लिए पंजीकृत विकल्पों में फसल/लेबल के अनुसार मैनकोजेब, कॉपर उत्पाद या विशिष्ट ओओमाइसीट फफूंदनाशक जैसे सायाजोफामिड शामिल हो सकते हैं.",
-      "mr": "लेट ब्लाइटसाठी पिक/लेबलनुसार मॅन्कोझेब, कॉपर किंवा सायाझोफामिडसारखी विशिष्ट बुरशीनाशके नोंदणीकृत पर्याय असू शकतात."
+      "hi": "पछेती झुलसा के लिए पंजीकृत विकल्पों में फसल व लेबल के अनुसार मैनकोजेब, कॉपर उत्पाद या विशिष्ट कवकनाशी शामिल हो सकते हैं.",
+      "mr": "उशिरा येणाऱ्या करप्यासाठी पिक व लेबलनुसार मॅन्कोझेब, कॉपर किंवा सायाझोफामिडसारखी विशिष्ट बुरशीनाशके नोंदणीकृत पर्याय असू शकतात."
     },
     "severity": "Moderate",
     "safety_note": {
@@ -786,8 +786,8 @@
     "plant": "Squash",
     "name": {
       "en": "Squash Powdery Mildew",
-      "hi": "स्क्वैश पाउडरी मिल्ड्यू",
-      "mr": "स्क्वॅशवरील भुरी"
+      "hi": "स्क्वैश चूर्णिल आसिता (भभूतिया रोग)",
+      "mr": "स्क्वॅश भुरी रोग"
     },
     "symptoms": {
       "en": "White powdery patches on leaves.",
@@ -801,7 +801,7 @@
     },
     "spray": {
       "en": "Sulfur or another registered powdery-mildew fungicide may be an option where labeled; avoid sulfur during heat conditions that can injure the crop.",
-      "hi": "जहाँ लेबल अनुमति दे वहाँ सल्फर या पाउडरी मिल्ड्यू के लिए पंजीकृत फफूंदनाशक विकल्प हो सकता है; तेज गर्मी में सल्फर से फसल को नुकसान हो सकता है.",
+      "hi": "जहाँ लेबल अनुमति दे वहाँ सल्फर या चूर्णिल आसिता (भभूतिया रोग) के लिए पंजीकृत कवकनाशी का उपयोग करें; तेज गर्मी में सल्फर से फसल को नुकसान हो सकता है.",
       "mr": "लेबल परवानगी देत असल्यास सल्फर किंवा भुरीसाठी नोंदणीकृत बुरशीनाशक पर्याय असू शकतो; तीव्र उष्णतेत सल्फरमुळे पिकाला इजा होऊ शकते."
     },
     "severity": "Moderate",
@@ -815,8 +815,8 @@
     "plant": "Strawberry",
     "name": {
       "en": "Strawberry Leaf Scorch",
-      "hi": "स्ट्रॉबेरी लीफ स्कॉर्च",
-      "mr": "स्ट्रॉबेरी लीफ स्कॉर्च"
+      "hi": "स्ट्रॉबेरी पर्ण झुलसन रोग",
+      "mr": "स्ट्रॉबेरी पाने करपणे"
     },
     "symptoms": {
       "en": "Small dark purple spots that enlarge and give scorched appearance.",
@@ -844,8 +844,8 @@
     "plant": "Tomato",
     "name": {
       "en": "Tomato Bacterial Spot",
-      "hi": "टमाटर बैक्टीरियल स्पॉट",
-      "mr": "टोमॅटो बॅक्टेरियल स्पॉट"
+      "hi": "टमाटर जीवाणु धब्बा रोग",
+      "mr": "टोमॅटो जिवाणूजन्य ठिपके"
     },
     "symptoms": {
       "en": "Small brown water-soaked spots on leaves and fruit.",
@@ -873,8 +873,8 @@
     "plant": "Tomato",
     "name": {
       "en": "Tomato Early Blight",
-      "hi": "टमाटर अर्ली ब्लाइट",
-      "mr": "टोमॅटो अर्ली ब्लाइट"
+      "hi": "टमाटर अगेती झुलसा रोग",
+      "mr": "टोमॅटो लवकर येणारा करपा"
     },
     "symptoms": {
       "en": "Dark concentric-ring lesions, usually beginning on older leaves.",
@@ -902,8 +902,8 @@
     "plant": "Tomato",
     "name": {
       "en": "Tomato Late Blight",
-      "hi": "टमाटर लेट ब्लाइट",
-      "mr": "टोमॅटो लेट ब्लाइट"
+      "hi": "टमाटर पछेती झुलसा रोग",
+      "mr": "टोमॅटो उशिरा येणारा करपा"
     },
     "symptoms": {
       "en": "Water-soaked dark lesions that expand quickly; fruit can develop firm brown lesions.",
@@ -912,13 +912,13 @@
     },
     "what_to_do": {
       "en": "Remove badly infected tissue, avoid overhead irrigation, improve drainage/airflow and act early because late blight can spread rapidly.",
-      "hi": "बहुत संक्रमित भाग हटाएँ, ऊपर से सिंचाई से बचें, जल निकास/हवा का संचार सुधारें और जल्दी कार्रवाई करें क्योंकि लेट ब्लाइट तेजी से फैल सकता है.",
-      "mr": "जास्त संक्रमित भाग काढा, वरून पाणी देणे टाळा, निचरा/हवा खेळती ठेवा आणि लवकर उपाय करा कारण लेट ब्लाइट झपाट्याने पसरतो."
+      "hi": "अत्यधिक संक्रमित भाग हटाएँ, ऊपर से सिंचाई से बचें, जल निकास और हवा का संचार सुधारें और तुरंत उपाय करें क्योंकि पछेती झुलसा तेजी से फैलता है.",
+      "mr": "जास्त संसर्ग झालेले भाग काढून नष्ट करा, वरून पाणी देणे टाळा, निचरा व हवा खेळती ठेवा आणि त्वरित उपाय करा कारण उशिरा येणारा करपा झपाट्याने पसरतो."
     },
     "spray": {
       "en": "Registered late-blight products can include mancozeb, copper products or specific oomycete fungicides such as cyazofamid, depending on crop and local label.",
-      "hi": "लेट ब्लाइट के लिए पंजीकृत विकल्पों में फसल/लेबल के अनुसार मैनकोजेब, कॉपर उत्पाद या विशिष्ट ओओमाइसीट फफूंदनाशक जैसे सायाजोफामिड शामिल हो सकते हैं.",
-      "mr": "लेट ब्लाइटसाठी पिक/लेबलनुसार मॅन्कोझेब, कॉपर किंवा सायाझोफामिडसारखी विशिष्ट बुरशीनाशके नोंदणीकृत पर्याय असू शकतात."
+      "hi": "पछेती झुलसा के लिए पंजीकृत विकल्पों में फसल व लेबल के अनुसार मैनकोजेब, कॉपर उत्पाद या विशिष्ट कवकनाशी शामिल हो सकते हैं.",
+      "mr": "उशिरा येणाऱ्या करप्यासाठी स्थानिक कृषी सल्ला व लेबलनुसार तांब्याचे किंवा मॅन्कोझेबसारखी नोंदणीकृत बुरशीनाशके वापरा."
     },
     "severity": "Moderate",
     "safety_note": {
@@ -931,8 +931,8 @@
     "plant": "Tomato",
     "name": {
       "en": "Tomato Leaf Mold",
-      "hi": "टमाटर लीफ मोल्ड",
-      "mr": "टोमॅटो लीफ मोल्ड"
+      "hi": "टमाटर पर्ण फफूंद रोग",
+      "mr": "टोमॅटो पानावरील बुरशी"
     },
     "symptoms": {
       "en": "Yellow patches on upper leaf surface with olive/gray mold underneath.",
@@ -960,8 +960,8 @@
     "plant": "Tomato",
     "name": {
       "en": "Tomato Septoria Leaf Spot",
-      "hi": "टमाटर सेप्टोरिया लीफ स्पॉट",
-      "mr": "टोमॅटो सेप्टोरिया लीफ स्पॉट"
+      "hi": "टमाटर सेप्टोरिया पत्ती धब्बा रोग",
+      "mr": "टोमॅटो सेप्टोरिया पानावरील ठिपके"
     },
     "symptoms": {
       "en": "Many small circular spots with dark margins and pale centers.",
@@ -989,8 +989,8 @@
     "plant": "Tomato",
     "name": {
       "en": "Tomato Two-Spotted Spider Mite",
-      "hi": "टमाटर टू-स्पॉटेड स्पाइडर माइट",
-      "mr": "टोमॅटो टू-स्पॉटेड स्पायडर माइट"
+      "hi": "टमाटर लाल मकड़ी कीट",
+      "mr": "टोमॅटो लाल कोळी कीड"
     },
     "symptoms": {
       "en": "Fine stippling/yellowing, webbing and leaf bronzing under heavy infestation.",
@@ -1004,8 +1004,8 @@
     },
     "spray": {
       "en": "Use a registered acaricide for the crop and mite species; rotate modes of action and follow the label.",
-      "hi": "फसल और माइट के लिए पंजीकृत एकारिसाइड का लेबल के अनुसार उपयोग करें और अलग-अलग कार्य-विधियों को बदलकर उपयोग करें.",
-      "mr": "पिक व माइट प्रजातीसाठी नोंदणीकृत अॅकारिसाइड लेबलनुसार वापरा आणि कार्यपद्धती बदलून वापरा."
+      "hi": "फसल और लाल मकड़ी कीट के लिए पंजीकृत मकड़ीनाशक का लेबल के अनुसार उपयोग करें और अलग-अलग कार्य-विधियों को बदलकर उपयोग करें.",
+      "mr": "पिक व कोळी कीड प्रजातीसाठी नोंदणीकृत कोळीनाशक लेबलनुसार वापरा आणि कार्यपद्धती बदलून वापरा."
     },
     "severity": "Moderate",
     "safety_note": {
@@ -1018,8 +1018,8 @@
     "plant": "Tomato",
     "name": {
       "en": "Tomato Target Spot",
-      "hi": "टमाटर टार्गेट स्पॉट",
-      "mr": "टोमॅटो टार्गेट स्पॉट"
+      "hi": "टमाटर चक्राकार पर्ण धब्बा रोग",
+      "mr": "टोमॅटो चकतीसारखे ठिपके"
     },
     "symptoms": {
       "en": "Brown circular lesions with concentric rings on leaves and fruit.",
@@ -1047,8 +1047,8 @@
     "plant": "Tomato",
     "name": {
       "en": "Tomato Yellow Leaf Curl Virus",
-      "hi": "टमाटर येलो लीफ कर्ल वायरस",
-      "mr": "टोमॅटो यलो लीफ कर्ल व्हायरस"
+      "hi": "टमाटर पीला पत्ता मरोड़ विषाणु",
+      "mr": "टोमॅटो पिवळा पान चुरडा-मुरडा विषाणू"
     },
     "symptoms": {
       "en": "Upward leaf curling, yellowing, stunting and reduced fruit set.",
@@ -1076,8 +1076,8 @@
     "plant": "Tomato",
     "name": {
       "en": "Tomato Mosaic Virus",
-      "hi": "टमाटर मोज़ेक वायरस",
-      "mr": "टोमॅटो मोझेक व्हायरस"
+      "hi": "टमाटर मोज़ेक विषाणु रोग",
+      "mr": "टोमॅटो मोझॅक विषाणू"
     },
     "symptoms": {
       "en": "Mottled light/dark green leaves, distortion and reduced growth.",

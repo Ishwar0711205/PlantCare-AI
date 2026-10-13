@@ -26,4 +26,34 @@ export function healthyImageFor(plantOrClassKey) {
   return IMAGE_BY_KEY[toKey(name)] || null
 }
 
+/**
+ * Returns the exact leaf image path for any supported class key (healthy or diseased).
+ * If the class is healthy, it returns the corresponding healthy PNG.
+ * If diseased, it returns the corresponding disease JPG.
+ */
+export function getLeafImage(classKey) {
+  if (!classKey) return null
+  const isHealthy = classKey.toLowerCase().includes('healthy')
+  if (isHealthy) {
+    return healthyImageFor(classKey)
+  }
+  return `/disease_images/${classKey}.jpg`
+}
+
+/**
+ * Returns the localized plant/crop name based on the active language code.
+ */
+export function getPlantDisplayName(plantKeyOrName, lang = 'en') {
+  if (!plantKeyOrName) return ''
+  const norm = toKey(plantKeyOrName)
+  const match = healthyPlants.find((p) => {
+    const pNorm = toKey(p.key)
+    return pNorm === norm || norm.includes(pNorm) || pNorm.includes(norm)
+  })
+  if (match && match.names) {
+    return match.names[lang] || match.names.en || match.key
+  }
+  return plantKeyOrName
+}
+
 export const YOUR_PLANTS = ['Apple', 'Blueberry', 'Cherry', 'Corn', 'Grape', 'Orange', 'Peach', 'Pepper', 'Potato', 'Raspberry', 'Soybean', 'Squash', 'Strawberry', 'Tomato']

@@ -379,8 +379,8 @@ const hi = {
     detectBtn: 'रोग पहचानें',
     exploreBtn: 'रोग संग्रह देखें',
     heroCard1: 'AI पहचान',
-    heroCard2: 'टमाटर — अर्ली ब्लाइट',
-    heroCard3: '94.6% विश्वास',
+    heroCard2: 'टमाटर — अगेती झुलसा रोग',
+    heroCard3: '94.6% सटीकता',
     heroCaption: 'ऐप में दिखाया जाने वाला विश्लेषण परिणाम (उदाहरण)।',
     scan: {
       label: 'AI विश्लेषण',
@@ -476,7 +476,7 @@ const hi = {
       plant: 'पौधा',
       condition: 'स्थिति',
       status: 'दशा',
-      confidence: 'विश्वास',
+      confidence: 'सटीकता',
       model: 'मॉडल',
     },
     healthyStatus: 'स्वस्थ पौधा',
@@ -731,12 +731,12 @@ const mr = {
     badge: 'AI-आधारित झाडांचे आरोग्य ओळखणे',
     title1: 'झाडांच्या रोगांचा शोध घ्या',
     title2: 'ते पसरण्याआधीच.',
-    text: 'झाडाच्या पानाचा फोटो अपलोड करा आणि डीप लर्निंगद्वारे संभाव्य रोग ओळखा — आत्मविश्वास-आधारित निकाल आणि बहुभाषी मार्गदर्शनासह.',
+    text: 'झाडाच्या पानाचा फोटो अपलोड करा आणि डीप लर्निंगद्वारे संभाव्य रोग ओळखा — अचूकता व विश्वासार्हतेवर आधारित निकाल आणि बहुभाषी मार्गदर्शनासह.',
     detectBtn: 'रोग ओळखा',
     exploreBtn: 'रोग संग्रह पहा',
     heroCard1: 'AI ओळख',
-    heroCard2: 'टोमॅटो — अर्ली ब्लाइट',
-    heroCard3: '94.6% आत्मविश्वास',
+    heroCard2: 'टोमॅटो — लवकर येणारा करपा',
+    heroCard3: '94.6% अचूकता',
     heroCaption: 'ॲपमध्ये दाखवले जाणारे विश्लेषण परिणाम (उदाहरण).',
     scan: {
       label: 'AI विश्लेषण',
@@ -806,7 +806,7 @@ const mr = {
     chooseAnother: 'दुसरा फोटो निवडा',
     analyzing: 'तुमच्या पानाचे विश्लेषण चालू आहे...',
     resultTitle: 'विश्लेषण पूर्ण',
-    lowTitle: 'कमी आत्मविश्वासाचा निकाल',
+    lowTitle: 'कमी अचूकतेचा निकाल (अनिश्चितता इशारा)',
     lowMsg: 'पान मध्यभागी आणि चांगल्या प्रकाशात दिसेल असा स्पष्ट फोटो अपलोड करून पुन्हा प्रयत्न करा.',
     lowExpert: 'उपचार घेण्यापूर्वी कृषी तज्ज्ञांचा सल्ला घ्या.',
     emptyTitle: 'तयार आहात?',
@@ -832,7 +832,7 @@ fields: {
       plant: 'झाड',
       condition: 'स्थिति',
       status: 'दशा',
-      confidence: 'आत्मविश्वास',
+      confidence: 'अचूकता पातळी',
       model: 'मॉडल',
     },
     healthyStatus: 'निरोगी झाड',
@@ -953,7 +953,7 @@ fields: {
       upload: { label: 'प्रतिमा अपलोड', text: 'फोटो मिळाला आणि तपासला' },
       preprocess: { label: 'प्रीप्रोसेसिंग', text: 'मॉडेलसाठी रीसाईझ आणि नॉर्मलाइज' },
       model: { label: 'डीप लर्निंग मॉडेल', text: 'पानाच्या फोटोचे वर्गीकरण' },
-      prediction: { label: 'अंदाज', text: 'श्रेणीचे नाव आणि आत्मविश्वास' },
+      prediction: { label: 'अंदाज', text: 'श्रेणीचे नाव आणि अचूकता' },
       info: { label: 'रोग माहिती', text: 'plant_info.json लुकअप' },
       guidance: { label: 'बहुभाषी मार्गदर्शन', text: 'लक्षणे, काय करावे, उपचार, सुरक्षा' },
     },
@@ -1019,7 +1019,7 @@ fields: {
       date: 'तारीख',
       plant: 'झाड',
       prediction: 'ओळख',
-      confidence: 'आत्मविश्वास',
+      confidence: 'अचूकता',
       model: 'मॉडेल',
       image: 'प्रतिमा',
     },
@@ -1044,7 +1044,7 @@ fields: {
       date: 'तारीख',
       plant: 'झाड',
       prediction: 'ओळख',
-      confidence: 'आत्मविश्वास',
+      confidence: 'अचूकता',
       model: 'मॉडेल',
     },
   },
@@ -1066,7 +1066,7 @@ fields: {
   },
 }
 
-import { extendedTranslations } from './translationsExtended'
+import { extendedTranslations } from './translationsExtended.js'
 
 /** Recursively overlay upgrade strings on top of the base dictionary. */
 function deepMerge(base, extra) {
