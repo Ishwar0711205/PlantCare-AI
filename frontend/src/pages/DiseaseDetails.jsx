@@ -1,7 +1,8 @@
+import { useState } from 'react'
 import { Link, useParams, Navigate } from 'react-router-dom'
 import { useLanguage } from '../context/LanguageContext'
 import { useData, isHealthyKey } from '../data/diseaseData'
-import { healthyImageFor } from '../data/plants'
+import { getLeafImage, getPlantDisplayName } from '../data/plants'
 import ResultSections from '../components/ResultSections'
 import PlantLeaf from '../components/PlantLeaf'
 import { ArrowLeft, CheckCircleIcon, AlertIcon, ImageIcon } from '../components/icons'
@@ -10,6 +11,7 @@ export default function DiseaseDetails() {
   const { key } = useParams()
   const { t, lang } = useLanguage()
   const { data, loading } = useData()
+  const [imgError, setImgError] = useState(false)
 
   if (loading) {
     return (
@@ -26,8 +28,10 @@ export default function DiseaseDetails() {
   const healthy = isHealthyKey(key)
   const name = info.name || {}
   const nameLabel = name[lang] || name.en || key
+  const plantLabel = getPlantDisplayName(info.plant, lang)
   const severity = info.severity || ''
-  const realImage = healthy ? healthyImageFor(info.plant || key) : null
+
+  const imageSrc = getLeafImage(key)
 
   return (
     <div className="mx-auto max-w-4xl px-4 py-12 sm:px-6 lg:px-8 lg:py-16">
@@ -45,8 +49,13 @@ export default function DiseaseDetails() {
             healthy ? 'bg-leaf-50' : 'bg-gradient-to-br from-amber-50 to-leaf-50'
           }`}
         >
-          {realImage ? (
-            <img src={realImage} alt={`${nameLabel} leaf`} className="h-full w-full object-cover" />
+          {!imgError && imageSrc ? (
+            <img
+              src={imageSrc}
+              alt={`${nameLabel} leaf`}
+              onError={() => setImgError(true)}
+              className="h-full w-full object-cover"
+            />
           ) : (
             <PlantLeaf healthy={healthy} className="h-28 w-28" tooltip={nameLabel} />
           )}
@@ -55,14 +64,14 @@ export default function DiseaseDetails() {
         <div>
           <span
             className={`inline-flex items-center gap-1.5 rounded-full px-3 py-1 text-xs font-semibold ${
-              healthy ? 'bg-leaf-100 text-leaf-700' : 'bg-amber-100 text-amber-800'
+              healthy ? 'bg-emerald-100 text-emerald-800' : 'bg-amber-100 text-amber-800'
             }`}
           >
             {healthy ? <CheckCircleIcon size={14} /> : <AlertIcon size={14} />}
             {healthy ? t('library.healthyTag') : t('library.conditionTag')}
           </span>
           <h1 className="mt-3 font-display text-3xl font-semibold tracking-tight text-leaf-950">{nameLabel}</h1>
-          <p className="mt-1 text-base text-leaf-950/78">{info.plant}</p>
+          <p className="mt-1 text-base text-leaf-950/78">{plantLabel || info.plant}</p>
           <div className="mt-3 space-y-0.5 text-sm text-leaf-950/88">
             <p>English: {name.en}</p>
             <p>हिन्दी: {name.hi}</p>
@@ -80,7 +89,7 @@ export default function DiseaseDetails() {
       )}
 
       <div className="mt-8 rounded-2xl border border-leaf-100 bg-leaf-50/50 p-6 sm:p-8">
-        <ResultSections info={info} />
+        <ResultSections info={info} result={{ class: key, model: null }} />
       </div>
     </div>
   )

@@ -13,7 +13,7 @@ const GRID = [0, 25, 50, 75, 100]
  * from 0 when the section scrolls into view.
  */
 export default function AccuracyChart({ results }) {
-  const { t } = useLanguage()
+  const { t, n } = useLanguage()
   const { ref, inView } = useInView({ threshold: 0.2 })
 
   const rows = MODEL_ORDER.filter((id) => {
@@ -37,13 +37,6 @@ export default function AccuracyChart({ results }) {
       </div>
 
       <div ref={ref} className="px-5 py-6 sm:px-7">
-        {/*
-          Axis. Each tick is pinned to its true percentage on the same 0–100%
-          track the bars use, so the labels sit directly above the gridlines.
-          Edge ticks are anchored to the ends instead of centred, otherwise they
-          would overhang the track. Hidden from assistive tech because every row
-          below already announces its own exact value.
-        */}
         <div aria-hidden="true" className="tnum relative mb-2.5 h-3.5 text-[11px] font-semibold text-leaf-950/82">
           {GRID.map((g) => (
             <span
@@ -53,7 +46,7 @@ export default function AccuracyChart({ results }) {
               }`}
               style={{ left: `${g}%` }}
             >
-              {g}%
+              {n(g)}%
             </span>
           ))}
         </div>
@@ -64,8 +57,6 @@ export default function AccuracyChart({ results }) {
             const value = r.validation_accuracy
             const name = r.display_name || id
             const accent = MODEL_META[id]?.accent || '#0d7d4e'
-            /* Bars use the bright accent; the printed number uses the darkened
-               accentInk so the figure stays legible on the white card. */
             const ink = MODEL_META[id]?.accentInk || accent
             return (
               <li key={id} className="group">
@@ -73,16 +64,15 @@ export default function AccuracyChart({ results }) {
                   <span className="flex items-center gap-2">
                     <span className="font-display text-sm font-bold text-leaf-950">{name}</span>
                     <span className="text-[11px] font-medium text-leaf-950/82">
-                      {r.input_size ? r.input_size.replace('x', ' × ') : ''}
+                      {r.input_size ? n(r.input_size.replace('x', ' × ')) : ''}
                     </span>
                   </span>
                   <span className="font-display text-sm font-bold tnum" style={{ color: ink }}>
-                    {value.toFixed(2)}%
+                    {n(value.toFixed(2))}%
                   </span>
                 </div>
 
                 <div className="relative h-3 w-full overflow-hidden rounded-full bg-leaf-50 ring-1 ring-inset ring-leaf-100/70">
-                  {/* gridlines at 25 / 50 / 75 / 100 % — same track as the axis above */}
                   <span aria-hidden="true" className="pointer-events-none absolute inset-0">
                     {GRID.slice(1).map((g) => (
                       <span
@@ -117,6 +107,7 @@ export default function AccuracyChart({ results }) {
 
 /** Compact variant used on the Home page. */
 export function AccuracyChartMini({ results, className = '' }) {
+  const { n } = useLanguage()
   const { ref, inView } = useInView({ threshold: 0.25 })
   const rows = MODEL_ORDER.filter((id) => results?.[id]?.validation_accuracy != null)
   if (!rows.length) return null
@@ -135,7 +126,7 @@ export function AccuracyChartMini({ results, className = '' }) {
                   {results[id].display_name || id}
                 </span>
                 <span className="text-xs font-bold tnum" style={{ color: ink }}>
-                  {value.toFixed(2)}%
+                  {n(value.toFixed(2))}%
                 </span>
               </div>
               <div className="h-2.5 w-full overflow-hidden rounded-full bg-leaf-100/70">

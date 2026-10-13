@@ -9,7 +9,7 @@ import { useLanguage } from '../context/LanguageContext'
  * and jumps straight to the final value when reduced motion is requested.
  */
 export default function ConfidenceMeter({ confidence, size = 132, showBar = true }) {
-  const { t } = useLanguage()
+  const { t, n } = useLanguage()
   const target = Math.max(0, Math.min(1, Number(confidence) || 0)) * 100
   const [display, setDisplay] = useState(0)
 
@@ -68,7 +68,7 @@ export default function ConfidenceMeter({ confidence, size = 132, showBar = true
           </svg>
           <div className="absolute inset-0 flex flex-col items-center justify-center">
             <span className="font-display text-2xl font-bold leading-none tnum text-leaf-950">
-              {display.toFixed(1)}%
+              {n(display.toFixed(1))}%
             </span>
             <span className="mt-1 text-[10px] font-semibold uppercase tracking-widest text-leaf-950/82">
               {t('detect.result.confidence')}
@@ -80,7 +80,7 @@ export default function ConfidenceMeter({ confidence, size = 132, showBar = true
           <div className="min-w-[10rem] flex-1">
             <div className="mb-2 flex items-center justify-between">
               <span className="text-[11px] font-semibold uppercase tracking-wider text-leaf-950/82">
-                {target >= 80 ? 'High confidence' : target >= 50 ? 'Moderate confidence' : 'Low confidence'}
+                {target >= 80 ? t('detect.confidenceHigh') : target >= 50 ? t('detect.confidenceMed') : t('detect.confidenceLow')}
               </span>
             </div>
             <div
@@ -104,8 +104,8 @@ export default function ConfidenceMeter({ confidence, size = 132, showBar = true
               />
             </div>
             <div className="mt-1.5 flex justify-between text-[11px] font-medium tnum text-leaf-950/82">
-              <span>0%</span>
-              <span>100%</span>
+              <span>{n(0)}%</span>
+              <span>{n(100)}%</span>
             </div>
           </div>
         )}

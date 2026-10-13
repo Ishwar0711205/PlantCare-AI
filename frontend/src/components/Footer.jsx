@@ -64,6 +64,7 @@ export default function Footer() {
               {[
                 { to: '/', label: t('nav.home') },
                 { to: '/disease-detection', label: t('nav.detect') },
+                { to: '/leaf-gallery', label: t('nav.gallery') },
                 { to: '/disease-library', label: t('nav.library') },
                 { to: '/models', label: t('nav.models') },
                 { to: '/about', label: t('nav.about') },

@@ -13,7 +13,7 @@ import {
 } from '../components/icons'
 
 export default function Dashboard() {
-  const { t } = useLanguage()
+  const { t, n } = useLanguage()
   const { user } = useAuth()
   const [history, setHistory] = useState([])
   const latest = history[0] || null
@@ -57,7 +57,7 @@ export default function Dashboard() {
               <MicroscopeIcon size={15} />
               {t('dashboard.summary.total')}
             </p>
-            <p className="mt-2 font-display text-3xl font-bold">{history.length}</p>
+            <p className="mt-2 font-display text-3xl font-bold">{n(history.length)}</p>
           </div>
           <div className="rounded-2xl bg-white/10 p-5">
             <p className="flex items-center gap-2 text-sm font-semibold text-leaf-100/80">
@@ -67,7 +67,7 @@ export default function Dashboard() {
             {latest ? (
               <div className="mt-2">
                 <p className="font-display text-base font-semibold leading-snug">{latest.prediction}</p>
-                <p className="mt-0.5 text-xs text-leaf-100/82">{latest.plant} · {latest.confidence}% · {latest.date}</p>
+                <p className="mt-0.5 text-xs text-leaf-100/82">{latest.plant} · {n(latest.confidence)}% · {n(latest.date)}</p>
               </div>
             ) : (
               <p className="mt-2 text-sm text-leaf-100/78">{t('dashboard.summary.noLatest')}</p>
@@ -146,10 +146,10 @@ export default function Dashboard() {
                         </span>
                       )}
                     </td>
-                    <td className="px-5 py-3.5 text-leaf-950/82">{h.date}</td>
+                    <td className="px-5 py-3.5 text-leaf-950/82">{n(h.date)}</td>
                     <td className="px-5 py-3.5 font-medium text-leaf-950">{h.plant}</td>
                     <td className="px-5 py-3.5 text-leaf-950/85">{h.prediction}</td>
-                    <td className="px-5 py-3.5 font-semibold text-leaf-700">{h.confidence}%</td>
+                    <td className="px-5 py-3.5 font-semibold text-leaf-700">{n(h.confidence)}%</td>
                     <td className="px-5 py-3.5 text-leaf-950/85">{h.model}</td>
                   </tr>
                 ))}

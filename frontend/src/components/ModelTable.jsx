@@ -14,7 +14,7 @@ function Hourglass() {
 }
 
 export default function ModelTable({ results }) {
-  const { t } = useLanguage()
+  const { t, n } = useLanguage()
 
   const rows = Object.entries(results || {}).map(([key, r]) => {
     const available = r.validation_accuracy !== null && r.validation_accuracy !== undefined && r.status === 'Available'
@@ -22,7 +22,7 @@ export default function ModelTable({ results }) {
     return {
       name: r.display_name || key,
       architecture: key === 'CNN' ? t('models.archCustom') : t('models.archTransfer'),
-      input: r.input_size ? r.input_size.replace('x', ' × ') : DEFAULT_INPUT[key] || '—',
+      input: r.input_size ? n(r.input_size.replace('x', ' × ')) : n(DEFAULT_INPUT[key]) || '—',
       accuracy,
       available,
     }
@@ -50,7 +50,7 @@ export default function ModelTable({ results }) {
                 {row.accuracy !== null ? (
                   <div className="max-w-40">
                     <div className="flex items-baseline justify-between gap-2">
-                      <span className="font-medium text-leaf-700">{row.accuracy.toFixed(2)}%</span>
+                      <span className="font-medium text-leaf-700">{n(row.accuracy.toFixed(2))}%</span>
                       <span className="text-[11px] text-leaf-950/82">{t('models.imageCount')}</span>
                     </div>
                     <div className="mt-1.5 h-2 w-full overflow-hidden rounded-full bg-leaf-100">

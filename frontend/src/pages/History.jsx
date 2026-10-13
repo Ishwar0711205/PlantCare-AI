@@ -18,7 +18,7 @@ function Trash() {
 }
 
 export default function History() {
-  const { t } = useLanguage()
+  const { t, n } = useLanguage()
   const [entries, setEntries] = useState([])
   const [search, setSearch] = useState('')
   const [filter, setFilter] = useState('all')
@@ -172,12 +172,12 @@ export default function History() {
                           <span className="inline-block h-12 w-12 rounded-lg bg-leaf-50 text-leaf-600" />
                         )}
                       </td>
-                      <td className="px-5 py-3.5 text-leaf-950/82">{h.date}</td>
+                      <td className="px-5 py-3.5 text-leaf-950/82">{n(h.date)}</td>
                       <td className="px-5 py-3.5 font-medium text-leaf-950">{h.plant}</td>
                       <td className="px-5 py-3.5">
                         <span className={healthy ? 'text-leaf-700' : 'text-amber-800'}>{h.prediction}</span>
                       </td>
-                      <td className="px-5 py-3.5 font-semibold text-leaf-700">{h.confidence}%</td>
+                      <td className="px-5 py-3.5 font-semibold text-leaf-700">{n(h.confidence)}%</td>
                       <td className="px-5 py-3.5 text-leaf-950/85">{h.model}</td>
                     </tr>
                   )
@@ -206,8 +206,8 @@ export default function History() {
                     <p className="truncate font-display text-sm font-semibold text-leaf-950">{h.prediction}</p>
                     <p className="truncate text-xs text-leaf-950/85">{h.plant}</p>
                     <p className="mt-1 text-xs">
-                      <span className="font-semibold text-leaf-700">{h.confidence}%</span>
-                      <span className="text-leaf-950/82"> · {h.model} · {h.date}</span>
+                      <span className="font-semibold text-leaf-700">{n(h.confidence)}%</span>
+                      <span className="text-leaf-950/82"> · {h.model} · {n(h.date)}</span>
                     </p>
                   </div>
                 </div>

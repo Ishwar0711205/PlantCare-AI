@@ -11,6 +11,7 @@ import Detection from './pages/Detection'
 import HealthyPlants from './pages/HealthyPlants'
 import DiseaseLibrary from './pages/DiseaseLibrary'
 import DiseaseDetails from './pages/DiseaseDetails'
+import LeafGallery from './pages/LeafGallery'
 import Models from './pages/Models'
 import About from './pages/About'
 import Login from './pages/Login'
@@ -43,6 +44,7 @@ function AppRoutes() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/disease-detection" element={<Detection />} />
+            <Route path="/leaf-gallery" element={<LeafGallery />} />
             <Route path="/healthy-plants" element={<HealthyPlants />} />
             <Route path="/disease-library" element={<DiseaseLibrary />} />
             <Route path="/disease-library/:key" element={<DiseaseDetails />} />

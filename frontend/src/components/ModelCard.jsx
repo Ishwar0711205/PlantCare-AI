@@ -24,12 +24,12 @@ export default function ModelCard({
   onKeyDown,
   cardRef,
 }) {
-  const { t } = useLanguage()
+  const { t, n } = useLanguage()
   const meta = MODEL_META[id] || {}
   const name = result?.display_name || id
   const isCustom = meta.type === 'custom'
   const typeLabel = isCustom ? t('models.archCustom') : t('models.archTransfer')
-  const input = result?.input_size ? result.input_size.replace('x', ' × ') : meta.input || '—'
+  const input = result?.input_size ? n(result.input_size.replace('x', ' × ')) : n(meta.input) || '—'
   const accuracy = result?.validation_accuracy
   const training = result?.training_accuracy
   const hasAccuracy = accuracy !== null && accuracy !== undefined
@@ -86,14 +86,14 @@ export default function ModelCard({
               selected ? 'text-leaf-700' : 'text-leaf-800'
             }`}
           >
-            {hasAccuracy ? `${accuracy.toFixed(2)}%` : nr}
+            {hasAccuracy ? `${n(accuracy.toFixed(2))}%` : nr}
           </span>
         </span>
         {hasTraining && (
           <span className="mt-1.5 flex items-baseline justify-between gap-2 border-t border-leaf-100 pt-1.5">
             <span className="text-[11px] font-medium text-leaf-950/85">{t('models.trainingLabel')}</span>
             <span className="text-xs font-semibold tnum text-leaf-950/88">
-              {training.toFixed(2)}%
+              {n(training.toFixed(2))}%
             </span>
           </span>
         )}
@@ -114,7 +114,7 @@ export default function ModelCard({
         {result?.validation_images ? (
           <span className="chip tnum">
             <LeafIcon size={12} />
-            {t('models.validationImagesLabel')}: {Number(result.validation_images).toLocaleString('en-US')}
+            {t('models.validationImagesLabel')}: {n(Number(result.validation_images).toLocaleString('en-US'))}
           </span>
         ) : null}
       </span>

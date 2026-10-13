@@ -57,8 +57,15 @@ export default function Hero() {
                   <ArrowRight size={16} />
                 </Link>
                 <Link
+                  to="/leaf-gallery"
+                  className="btn-secondary inline-flex items-center gap-2 rounded-xl px-5 py-3.5 text-sm font-semibold"
+                >
+                  <GridIcon size={16} />
+                  {t('nav.gallery')}
+                </Link>
+                <Link
                   to="/models"
-                  className="btn-secondary inline-flex items-center gap-2.5 rounded-xl px-6 py-3.5 text-sm font-semibold"
+                  className="btn-secondary inline-flex items-center gap-2.5 rounded-xl px-5 py-3.5 text-sm font-semibold"
                 >
                   {t('home.hero.ctaSecondary')}
                 </Link>

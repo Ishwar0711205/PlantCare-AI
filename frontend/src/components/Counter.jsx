@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import useInView from '../hooks/useInView'
+import { useLanguage } from '../context/LanguageContext'
 
 function parseNumber(value) {
   if (typeof value === 'number') return value
@@ -7,11 +8,8 @@ function parseNumber(value) {
   return Number.isFinite(Number(digits)) ? Number(digits) : 0
 }
 
-function formatNumber(value) {
-  return Math.round(value).toLocaleString('en-US')
-}
-
 export default function Counter({ value, suffix = '', duration = 1200, className = '' }) {
+  const { n } = useLanguage()
   const { ref, inView } = useInView()
   const [display, setDisplay] = useState(0)
   const startRef = useRef(null)
@@ -36,10 +34,12 @@ export default function Counter({ value, suffix = '', duration = 1200, className
     return () => cancelAnimationFrame(frame)
   }, [inView, value, duration])
 
+  const numStr = Math.round(display).toLocaleString('en-US')
+
   return (
     <span ref={ref} className={className}>
-      {formatNumber(display)}
-      {suffix}
+      {n(numStr)}
+      {n(suffix)}
     </span>
   )
 }

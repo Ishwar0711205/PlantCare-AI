@@ -41,11 +41,20 @@ const MOCK_CLASSES = [
 async function mockPredict(imageFile, model) {
   await delay(1400 + Math.random() * 900)
   const seed = imageFile.name + imageFile.size
-  const pick = MOCK_CLASSES[hashString(seed) % MOCK_CLASSES.length]
+  const idx = hashString(seed) % MOCK_CLASSES.length
+  const pick = MOCK_CLASSES[idx]
+  const top5 = [
+    { class: pick.key, confidence: pick.confidence },
+    { class: MOCK_CLASSES[(idx + 1) % MOCK_CLASSES.length].key, confidence: Number((pick.confidence * 0.05).toFixed(3)) },
+    { class: MOCK_CLASSES[(idx + 2) % MOCK_CLASSES.length].key, confidence: Number((pick.confidence * 0.02).toFixed(3)) },
+    { class: MOCK_CLASSES[(idx + 3) % MOCK_CLASSES.length].key, confidence: Number((pick.confidence * 0.01).toFixed(3)) },
+    { class: MOCK_CLASSES[(idx + 4) % MOCK_CLASSES.length].key, confidence: Number((pick.confidence * 0.005).toFixed(3)) },
+  ]
   return {
     class: pick.key,
     confidence: pick.confidence,
     model: model || 'EfficientNetB0',
+    top5,
   }
 }
 
